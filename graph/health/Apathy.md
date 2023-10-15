@@ -1,0 +1,1 @@
+Apathy is recognition of failure or helplessness which results lack of motivation and lack of motivation to see alternative goals or solution ([[On the Function of Boredom]]).
