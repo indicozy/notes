@@ -14,37 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "1c6cbb8a3cb0e02f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "d7c83dcdb5b02718",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-10-15 22.59.52.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "7955f0161ae6dfb5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-10-15 23.02.42.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-15 23.02.42.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-15 23.02.42.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-10-15 23.02.42.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,7 +140,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "zk-prefixer:Create new unique note": false,
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
       "publish:Publish changes...": false,
@@ -186,15 +152,18 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "7955f0161ae6dfb5",
+  "active": "9ed3cc606279b067",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-10-15 22.59.52.excalidraw.md",
+    "Untitled.canvas",
+    "resources/On the Function of Boredom.md",
+    "202310152303.md",
+    "Excalidraw/Drawing 2023-10-15 23.02.45.excalidraw.md",
     "Excalidraw/Drawing 2023-10-15 23.02.42.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-15 22.59.52.excalidraw.md",
     "Excalidraw/Drawing 2023-10-15 22.59.50.excalidraw.md",
     "Excalidraw/Drawing 2023-10-15 22.59.37.excalidraw.md",
     "Excalidraw",
     "2023-10-15.md",
-    "resources/On the Function of Boredom.md",
     "graph/health/Apathy.md",
     "graph/health/boredom.md",
     "Pasted image 20231015163937.png",
