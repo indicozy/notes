@@ -11,8 +11,12 @@
             "id": "9ed3cc606279b067",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "graph/health/boredom.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "graph/health/boredom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "graph/health/boredom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "graph/health/boredom.md"
+              }
             }
           },
           {
@@ -140,7 +148,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
       "publish:Publish changes...": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
@@ -149,13 +156,15 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "random-note:Open random note": false
     }
   },
   "active": "9ed3cc606279b067",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "graph/health/Apathy.md",
     "resources/On the Function of Boredom.md",
+    "Untitled.canvas",
     "202310152303.md",
     "Excalidraw/Drawing 2023-10-15 23.02.45.excalidraw.md",
     "Excalidraw/Drawing 2023-10-15 23.02.42.excalidraw.md",
@@ -164,7 +173,6 @@
     "Excalidraw/Drawing 2023-10-15 22.59.37.excalidraw.md",
     "Excalidraw",
     "2023-10-15.md",
-    "graph/health/Apathy.md",
     "graph/health/boredom.md",
     "Pasted image 20231015163937.png",
     "Untitled.md",
