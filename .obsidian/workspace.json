@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graph/health/boredom.md",
+                "file": "resources/Can't hurt me (David Goggins).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph/health/boredom.md",
+                "file": "resources/Can't hurt me (David Goggins).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph/health/boredom.md",
+                "file": "resources/Can't hurt me (David Goggins).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "graph/health/boredom.md"
+                "file": "resources/Can't hurt me (David Goggins).md"
               }
             }
           },
@@ -162,6 +162,8 @@
   },
   "active": "9ed3cc606279b067",
   "lastOpenFiles": [
+    "graph/health/boredom.md",
+    "resources/Can't hurt me (David Goggins).md",
     "graph/health/Apathy.md",
     "resources/On the Function of Boredom.md",
     "Untitled.canvas",
@@ -173,7 +175,6 @@
     "Excalidraw/Drawing 2023-10-15 22.59.37.excalidraw.md",
     "Excalidraw",
     "2023-10-15.md",
-    "graph/health/boredom.md",
     "Pasted image 20231015163937.png",
     "Untitled.md",
     "graph/health",
