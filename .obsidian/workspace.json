@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources/On the Function of Boredom.md",
+                "file": "graph/health/chemicals/tretinoin.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "dc262689186a1b0b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/On the Function of Boredom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources/On the Function of Boredom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "resources/On the Function of Boredom.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,14 +165,18 @@
       "random-note:Open random note": false
     }
   },
-  "active": "1bf3bedeab88374c",
+  "active": "dc262689186a1b0b",
   "lastOpenFiles": [
+    "graph/health/chemicals/Minoxidil.md",
+    "graph/health/chemicals/tretinoin.md",
+    "graph/health/boredom.md",
+    "resources/Отрасти бороду ДАЖЕ ЕСЛИ у тебя лицо подростка..md",
+    "resources/On the Function of Boredom.md",
+    "graph/health/chemicals",
     "attachments",
     "Pasted image 20231015163937.png",
-    "resources/On the Function of Boredom.md",
     "Untitled.canvas",
     "resources/Can't hurt me (David Goggins).md",
-    "graph/health/boredom.md",
     "graph/health/Apathy.md",
     "202310152303.md",
     "Excalidraw/Drawing 2023-10-15 23.02.45.excalidraw.md",

@@ -1,0 +1,1 @@
+Improves beard growth. May require [[graph/health/chemicals/tretinoin|tretinoin]]. Source: [[resources/Отрасти бороду ДАЖЕ ЕСЛИ у тебя лицо подростка.|Отрасти бороду ДАЖЕ ЕСЛИ у тебя лицо подростка.]]
