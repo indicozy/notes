@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources/Can't hurt me (David Goggins).md",
+                "file": "resources/On the Function of Boredom.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/Can't hurt me (David Goggins).md",
+                "file": "resources/On the Function of Boredom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources/Can't hurt me (David Goggins).md",
+                "file": "resources/On the Function of Boredom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources/Can't hurt me (David Goggins).md"
+                "file": "resources/On the Function of Boredom.md"
               }
             }
           },
@@ -160,13 +160,15 @@
       "random-note:Open random note": false
     }
   },
-  "active": "9ed3cc606279b067",
+  "active": "1bf3bedeab88374c",
   "lastOpenFiles": [
-    "graph/health/boredom.md",
-    "resources/Can't hurt me (David Goggins).md",
-    "graph/health/Apathy.md",
+    "attachments",
+    "Pasted image 20231015163937.png",
     "resources/On the Function of Boredom.md",
     "Untitled.canvas",
+    "resources/Can't hurt me (David Goggins).md",
+    "graph/health/boredom.md",
+    "graph/health/Apathy.md",
     "202310152303.md",
     "Excalidraw/Drawing 2023-10-15 23.02.45.excalidraw.md",
     "Excalidraw/Drawing 2023-10-15 23.02.42.excalidraw.md",
@@ -175,7 +177,6 @@
     "Excalidraw/Drawing 2023-10-15 22.59.37.excalidraw.md",
     "Excalidraw",
     "2023-10-15.md",
-    "Pasted image 20231015163937.png",
     "Untitled.md",
     "graph/health",
     "graph",
