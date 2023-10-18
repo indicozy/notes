@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ca30fdc02cb91fce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "graph/economics/banking/Islamic Banking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -185,10 +197,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "0b5b60dc735c8062",
+  "active": "ca30fdc02cb91fce",
   "lastOpenFiles": [
-    "graph/economics/ideology/Marxism.md",
+    "graph/economics/ideology/Neoliberal Capitalism.md",
     "graph/economics/banking/Islamic Banking.md",
+    "graph/economics/ideology/Marxism.md",
     "graph/economics/ideology",
     "graph/economics/Untitled.md",
     "graph/economics/banking",
