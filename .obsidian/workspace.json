@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3ccc1c9172bcec7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What to read.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph/economics/banking/Islamic Banking.md",
+                "file": "What to read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph/economics/banking/Islamic Banking.md",
+                "file": "What to read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "graph/economics/banking/Islamic Banking.md"
+                "file": "What to read.md"
               }
             }
           },
@@ -197,10 +209,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "ca30fdc02cb91fce",
+  "active": "1bf3bedeab88374c",
   "lastOpenFiles": [
-    "graph/economics/ideology/Neoliberal Capitalism.md",
     "graph/economics/banking/Islamic Banking.md",
+    "What to read.md",
+    "graph/economics/ideology/Neoliberal Capitalism.md",
     "graph/economics/ideology/Marxism.md",
     "graph/economics/ideology",
     "graph/economics/Untitled.md",
