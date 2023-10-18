@@ -1,0 +1,1 @@
+- Quite resembles ideas of [[graph/economics/ideology/Marxism|Marxism]]

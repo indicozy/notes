@@ -23,12 +23,28 @@
             "id": "dc262689186a1b0b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "graph/economics/banking/Islamic Banking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b5b60dc735c8062",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "graph/economics/banking/Islamic Banking.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "graph/economics/banking/Islamic Banking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "graph/economics/banking/Islamic Banking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "graph/economics/banking/Islamic Banking.md"
+              }
             }
           },
           {
@@ -165,8 +185,14 @@
       "random-note:Open random note": false
     }
   },
-  "active": "dc262689186a1b0b",
+  "active": "0b5b60dc735c8062",
   "lastOpenFiles": [
+    "graph/economics/ideology/Marxism.md",
+    "graph/economics/banking/Islamic Banking.md",
+    "graph/economics/ideology",
+    "graph/economics/Untitled.md",
+    "graph/economics/banking",
+    "graph/economics",
     "graph/health/chemicals/Minoxidil.md",
     "graph/health/chemicals/tretinoin.md",
     "graph/health/boredom.md",
