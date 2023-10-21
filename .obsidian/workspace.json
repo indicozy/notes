@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What to read.md",
+                "file": "resources/Design Patterns - Element of Reusable Object-Oriented Software.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph/health/chemicals/tretinoin.md",
+                "file": "resources/Design Patterns - Element of Reusable Object-Oriented Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph/health/chemicals/tretinoin.md",
+                "file": "resources/Design Patterns - Element of Reusable Object-Oriented Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "graph/health/chemicals/tretinoin.md"
+                "file": "resources/Design Patterns - Element of Reusable Object-Oriented Software.md"
               }
             }
           },
@@ -209,8 +209,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "1bf3bedeab88374c",
+  "active": "3ccc1c9172bcec7a",
   "lastOpenFiles": [
+    "graph/health/chemicals/tretinoin.md",
+    "resources/Design Patterns - Element of Reusable Object-Oriented Software.md",
     "graph/economics/banking/Islamic Banking.md",
     "What to read.md",
     "graph/economics/ideology/Neoliberal Capitalism.md",
@@ -220,7 +222,6 @@
     "graph/economics/banking",
     "graph/economics",
     "graph/health/chemicals/Minoxidil.md",
-    "graph/health/chemicals/tretinoin.md",
     "graph/health/boredom.md",
     "resources/Отрасти бороду ДАЖЕ ЕСЛИ у тебя лицо подростка..md",
     "resources/On the Function of Boredom.md",
