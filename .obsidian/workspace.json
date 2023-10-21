@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What to read.md",
+                "file": "graph/health/chemicals/tretinoin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What to read.md",
+                "file": "graph/health/chemicals/tretinoin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What to read.md"
+                "file": "graph/health/chemicals/tretinoin.md"
               }
             }
           },
