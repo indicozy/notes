@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources/Design Patterns - Element of Reusable Object-Oriented Software.md",
+                "file": "graph/health/Apathy.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/Design Patterns - Element of Reusable Object-Oriented Software.md",
+                "file": "graph/health/Apathy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources/Design Patterns - Element of Reusable Object-Oriented Software.md",
+                "file": "graph/health/Apathy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources/Design Patterns - Element of Reusable Object-Oriented Software.md"
+                "file": "graph/health/Apathy.md"
               }
             }
           },
@@ -211,17 +211,18 @@
   },
   "active": "3ccc1c9172bcec7a",
   "lastOpenFiles": [
+    "graph/economics/ideology/Marxism.md",
+    "graph/health/Apathy.md",
     "graph/health/chemicals/tretinoin.md",
+    "graph/health/chemicals/Minoxidil.md",
     "resources/Design Patterns - Element of Reusable Object-Oriented Software.md",
     "graph/economics/banking/Islamic Banking.md",
     "What to read.md",
     "graph/economics/ideology/Neoliberal Capitalism.md",
-    "graph/economics/ideology/Marxism.md",
     "graph/economics/ideology",
     "graph/economics/Untitled.md",
     "graph/economics/banking",
     "graph/economics",
-    "graph/health/chemicals/Minoxidil.md",
     "graph/health/boredom.md",
     "resources/Отрасти бороду ДАЖЕ ЕСЛИ у тебя лицо подростка..md",
     "resources/On the Function of Boredom.md",
@@ -230,7 +231,6 @@
     "Pasted image 20231015163937.png",
     "Untitled.canvas",
     "resources/Can't hurt me (David Goggins).md",
-    "graph/health/Apathy.md",
     "202310152303.md",
     "Excalidraw/Drawing 2023-10-15 23.02.45.excalidraw.md",
     "Excalidraw/Drawing 2023-10-15 23.02.42.excalidraw.md",
