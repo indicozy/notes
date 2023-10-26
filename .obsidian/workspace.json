@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graph/programming/Principles/SOLID/liskov-substitution-principle.md",
+                "file": "graph/programming/Principles/SOLID/dependency-inversion.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph/programming/Principles/SOLID/liskov-substitution-principle.md",
+                "file": "graph/programming/Principles/SOLID/dependency-inversion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph/programming/Principles/SOLID/liskov-substitution-principle.md",
+                "file": "graph/programming/Principles/SOLID/dependency-inversion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "graph/programming/Principles/SOLID/liskov-substitution-principle.md"
+                "file": "graph/programming/Principles/SOLID/dependency-inversion.md"
               }
             }
           },
@@ -223,8 +223,11 @@
   },
   "active": "d7e201fdeff73064",
   "lastOpenFiles": [
-    "graph/programming/Principles/SOLID/open-closed-principle.md",
+    "graph/programming/Principles/SOLID/interface-segregation-principle.md",
+    "graph/programming/Principles/SOLID/dependency-inversion.md",
+    "attachments/Pasted image 20231027005229.png",
     "graph/programming/Principles/SOLID/liskov-substitution-principle.md",
+    "graph/programming/Principles/SOLID/open-closed-principle.md",
     "graph/programming/Principles/SOLID/single-responsibility-principle.md",
     "graph/health/boredom.md",
     "graph/programming/Principles/SOLID",
