@@ -1,0 +1,2 @@
+https://en.wikipedia.org/wiki/Barbara_Liskov
+Objects of a superclass shall be replaceable with objects of its subclasses without breaking the application. Objects of your subclasses must behave in the same way as the objects of your superclass. Similar to the [design by contract](https://en.wikipedia.org/wiki/Design_by_contract) concept defined by Bertrand Meyer.
