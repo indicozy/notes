@@ -4,10 +4,10 @@ type: article
 ---
 # Summary
 Boredom is desire for changing the current goal to a new, more interesting goal.
-| Boredom is the emotional indication to pursue an alternative goal.
+> Boredom is the emotional indication to pursue an alternative goal.
 
 Apathy results from recognition of complete failure or helplessness and is characterized by a lack of motivation and a failure to seek alternatives.
 
 Importantly, we propose that boredom results from diminishing emotional stimulation in a situation and prompts responses to facilitate the pursuit of alternative goals.
-![[Paste]]
+![[Pasted image 20231015163937.png]]
 ![[Pasted image 20231015163937.png]]
