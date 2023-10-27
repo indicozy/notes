@@ -211,7 +211,6 @@
     "hiddenItems": {
       "workspaces:Manage workspace layouts": false,
       "publish:Publish changes...": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
