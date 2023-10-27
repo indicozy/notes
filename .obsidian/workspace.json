@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources/On the Function of Boredom.md",
+                "file": "graph/programming/Principles/message-driven-architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/On the Function of Boredom.md",
+                "file": "graph/programming/Principles/message-driven-architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources/On the Function of Boredom.md",
+                "file": "graph/programming/Principles/message-driven-architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources/On the Function of Boredom.md"
+                "file": "graph/programming/Principles/message-driven-architecture.md"
               }
             }
           },
@@ -223,6 +223,13 @@
   },
   "active": "d7e201fdeff73064",
   "lastOpenFiles": [
+    "package.json",
+    "package.json.558948587",
+    "scripts/gen.ts",
+    "scripts",
+    "graph/programming/Principles/event-driven-architecture.md",
+    "graph/programming/Principles/message-driven-architecture.md",
+    "resources/On the Function of Boredom.md",
     "resources/Design Patterns - Element of Reusable Object-Oriented Software.md",
     "resources/Can't hurt me (David Goggins).md",
     "graph/programming/Principles/Event Sourcing.md",
@@ -236,7 +243,6 @@
     "graph/programming/Principles/SOLID",
     "graph/programming/Principles",
     "graph/programming",
-    "resources/On the Function of Boredom.md",
     "graph/health/Apathy.md",
     "graph/economics/ideology/Marxism.md",
     "graph/health/chemicals/tretinoin.md",
@@ -250,17 +256,11 @@
     "graph/economics",
     "resources/Отрасти бороду ДАЖЕ ЕСЛИ у тебя лицо подростка..md",
     "graph/health/chemicals",
-    "attachments",
     "Pasted image 20231015163937.png",
     "Untitled.canvas",
     "202310152303.md",
     "Excalidraw/Drawing 2023-10-15 23.02.45.excalidraw.md",
     "Excalidraw/Drawing 2023-10-15 23.02.42.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-15 22.59.52.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-15 22.59.50.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-15 22.59.37.excalidraw.md",
-    "Excalidraw",
-    "2023-10-15.md",
-    "graph/health"
+    "Excalidraw/Drawing 2023-10-15 22.59.52.excalidraw.md"
   ]
 }
