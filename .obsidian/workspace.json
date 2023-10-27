@@ -209,6 +209,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "workspaces:Manage workspace layouts": false,
       "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
