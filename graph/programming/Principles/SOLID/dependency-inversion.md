@@ -1,3 +1,3 @@
 1. High-level modules should not depend on low-level modules. Both should depend on abstractions.
 2. Abstractions should not depend on details. Details should depend on abstractions.
-Did not get it. T
+Did not get it. TODO

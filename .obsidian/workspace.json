@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graph/programming/Principles/SOLID/dependency-inversion.md",
+                "file": "resources/On the Function of Boredom.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph/programming/Principles/SOLID/dependency-inversion.md",
+                "file": "resources/On the Function of Boredom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph/programming/Principles/SOLID/dependency-inversion.md",
+                "file": "resources/On the Function of Boredom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "graph/programming/Principles/SOLID/dependency-inversion.md"
+                "file": "resources/On the Function of Boredom.md"
               }
             }
           },
@@ -223,8 +223,11 @@
   },
   "active": "d7e201fdeff73064",
   "lastOpenFiles": [
-    "graph/programming/Principles/SOLID/interface-segregation-principle.md",
+    "resources/Design Patterns - Element of Reusable Object-Oriented Software.md",
+    "resources/Can't hurt me (David Goggins).md",
+    "graph/programming/Principles/Event Sourcing.md",
     "graph/programming/Principles/SOLID/dependency-inversion.md",
+    "graph/programming/Principles/SOLID/interface-segregation-principle.md",
     "attachments/Pasted image 20231027005229.png",
     "graph/programming/Principles/SOLID/liskov-substitution-principle.md",
     "graph/programming/Principles/SOLID/open-closed-principle.md",
@@ -238,7 +241,6 @@
     "graph/economics/ideology/Marxism.md",
     "graph/health/chemicals/tretinoin.md",
     "graph/health/chemicals/Minoxidil.md",
-    "resources/Design Patterns - Element of Reusable Object-Oriented Software.md",
     "graph/economics/banking/Islamic Banking.md",
     "What to read.md",
     "graph/economics/ideology/Neoliberal Capitalism.md",
@@ -251,7 +253,6 @@
     "attachments",
     "Pasted image 20231015163937.png",
     "Untitled.canvas",
-    "resources/Can't hurt me (David Goggins).md",
     "202310152303.md",
     "Excalidraw/Drawing 2023-10-15 23.02.45.excalidraw.md",
     "Excalidraw/Drawing 2023-10-15 23.02.42.excalidraw.md",
@@ -260,7 +261,6 @@
     "Excalidraw/Drawing 2023-10-15 22.59.37.excalidraw.md",
     "Excalidraw",
     "2023-10-15.md",
-    "Untitled.md",
     "graph/health"
   ]
 }
