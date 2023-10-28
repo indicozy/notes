@@ -71,12 +71,8 @@
             "id": "d7e201fdeff73064",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph/programming/Principles/message-driven-architecture.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -146,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph/programming/Principles/message-driven-architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +158,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph/programming/Principles/message-driven-architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,9 +179,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "graph/programming/Principles/message-driven-architecture.md"
-              }
+              "state": {}
             }
           },
           {
@@ -223,39 +215,38 @@
   },
   "active": "d7e201fdeff73064",
   "lastOpenFiles": [
+    "graph/programming/Principles/SOLID/open-closed-principle.md",
+    "graph/programming/Principles/SOLID/liskov-substitution-principle.md",
+    "graph/programming/Principles/SOLID/interface-segregation-principle.md",
+    "graph/economics/ideology/Neoliberal Capitalism.md",
+    "graph/economics/ideology/Marxism.md",
+    "graph/programming/Principles/message-driven-architecture.md",
     "package.json",
     "package.json.558948587",
     "scripts/gen.ts",
     "scripts",
     "graph/programming/Principles/event-driven-architecture.md",
-    "graph/programming/Principles/message-driven-architecture.md",
     "resources/On the Function of Boredom.md",
     "resources/Design Patterns - Element of Reusable Object-Oriented Software.md",
     "resources/Can't hurt me (David Goggins).md",
     "graph/programming/Principles/Event Sourcing.md",
     "graph/programming/Principles/SOLID/dependency-inversion.md",
-    "graph/programming/Principles/SOLID/interface-segregation-principle.md",
     "attachments/Pasted image 20231027005229.png",
-    "graph/programming/Principles/SOLID/liskov-substitution-principle.md",
-    "graph/programming/Principles/SOLID/open-closed-principle.md",
     "graph/programming/Principles/SOLID/single-responsibility-principle.md",
     "graph/health/boredom.md",
     "graph/programming/Principles/SOLID",
     "graph/programming/Principles",
     "graph/programming",
     "graph/health/Apathy.md",
-    "graph/economics/ideology/Marxism.md",
     "graph/health/chemicals/tretinoin.md",
     "graph/health/chemicals/Minoxidil.md",
     "graph/economics/banking/Islamic Banking.md",
     "What to read.md",
-    "graph/economics/ideology/Neoliberal Capitalism.md",
     "graph/economics/ideology",
     "graph/economics/Untitled.md",
     "graph/economics/banking",
     "graph/economics",
     "resources/Отрасти бороду ДАЖЕ ЕСЛИ у тебя лицо подростка..md",
-    "graph/health/chemicals",
     "Pasted image 20231015163937.png",
     "Untitled.canvas",
     "202310152303.md",
