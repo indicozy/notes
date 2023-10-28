@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:viz="http:///www.gexf.net/1.1draft/viz">
+  <meta/>
+  <graph defaultedgetype="directed">
+    <nodes>
+      <node id="graph/economics/banking/Islamic Banking.md"/>
+      <node id="graph/economics/ideology/Marxism.md"/>
+      <node id="graph/economics/ideology/Neoliberal Capitalism.md"/>
+      <node id="graph/health/chemicals/Minoxidil.md"/>
+      <node id="graph/health/chemicals/tretinoin.md"/>
+      <node id="graph/health/Apathy.md"/>
+      <node id="graph/health/boredom.md"/>
+      <node id="graph/programming/Principles/SOLID/dependency-inversion.md"/>
+      <node id="graph/programming/Principles/SOLID/interface-segregation-principle.md"/>
+      <node id="graph/programming/Principles/SOLID/liskov-substitution-principle.md"/>
+      <node id="graph/programming/Principles/SOLID/open-closed-principle.md"/>
+      <node id="graph/programming/Principles/SOLID/single-responsibility-principle.md"/>
+      <node id="graph/programming/Principles/Event Sourcing.md"/>
+      <node id="graph/programming/Principles/event-driven-architecture.md"/>
+      <node id="graph/programming/Principles/message-driven-architecture.md"/>
+      <node id="resources/Can't hurt me (David Goggins).md"/>
+      <node id="resources/Design Patterns - Element of Reusable Object-Oriented Software.md"/>
+      <node id="resources/On the Function of Boredom.md"/>
+      <node id="resources/Отрасти бороду ДАЖЕ ЕСЛИ у тебя лицо подростка..md"/>
+      <node id="What to read.md"/>
+    </nodes>
+    <edges>
+      <edge id="geid_244_0" source="graph/economics/banking/Islamic Banking.md" target="graph/economics/ideology/Marxism.md"/>
+      <edge id="geid_244_1" source="graph/economics/banking/Islamic Banking.md" target="graph/economics/ideology/Neoliberal Capitalism.md"/>
+      <edge id="geid_244_2" source="graph/health/chemicals/Minoxidil.md" target="graph/health/chemicals/tretinoin.md"/>
+      <edge id="geid_244_3" source="graph/health/chemicals/Minoxidil.md" target="resources/Отрасти бороду ДАЖЕ ЕСЛИ у тебя лицо подростка..md"/>
+      <edge id="geid_244_4" source="graph/health/chemicals/tretinoin.md" target="resources/Отрасти бороду ДАЖЕ ЕСЛИ у тебя лицо подростка..md"/>
+      <edge id="geid_244_5" source="graph/health/Apathy.md" target="resources/On the Function of Boredom.md"/>
+      <edge id="geid_244_6" source="graph/health/boredom.md" target="resources/On the Function of Boredom.md"/>
+      <edge id="geid_244_7" source="graph/health/boredom.md" target="graph/health/Apathy.md"/>
+      <edge id="geid_244_8" source="graph/programming/Principles/message-driven-architecture.md" target="graph/programming/Principles/event-driven-architecture.md"/>
+    </edges>
+  </graph>
+</gexf>
