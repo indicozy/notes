@@ -5,115 +5,115 @@
     <nodes>
       <node id="graph/economics/banking/Islamic Banking.md" label="Islamic Banking.md">
         <viz:color r="255" g="255" b="255"/>
-        <viz:size value="3"/>
-        <viz:position x="3.275089235601305" y="3.379725984854973" z="0"/>
+        <viz:size value="10"/>
+        <viz:position x="-4.77115821051918" y="-0.30589966260489376" z="0"/>
       </node>
       <node id="graph/economics/ideology/Marxism.md" label="Marxism.md">
         <viz:color r="255" g="255" b="255"/>
-        <viz:size value="3"/>
-        <viz:position x="0.4833203975749134" y="-1.0762557449804855" z="0"/>
+        <viz:size value="10"/>
+        <viz:position x="1.4446149442606782" y="4.637100893996129" z="0"/>
       </node>
       <node id="graph/economics/ideology/Neoliberal Capitalism.md" label="Neoliberal Capitalism.md">
         <viz:color r="255" g="255" b="255"/>
-        <viz:size value="3"/>
-        <viz:position x="-4.9332488626377335" y="2.984113291082487" z="0"/>
+        <viz:size value="10"/>
+        <viz:position x="4.764958227557489" y="2.8306815364559457" z="0"/>
       </node>
       <node id="graph/health/chemicals/Minoxidil.md" label="Minoxidil.md">
         <viz:color r="255" g="255" b="255"/>
-        <viz:size value="3"/>
-        <viz:position x="-2.900745903969575" y="4.556391301989347" z="0"/>
+        <viz:size value="10"/>
+        <viz:position x="1.618588682668694" y="-4.410814726474346" z="0"/>
       </node>
       <node id="graph/health/chemicals/tretinoin.md" label="tretinoin.md">
         <viz:color r="255" g="255" b="255"/>
-        <viz:size value="3"/>
-        <viz:position x="1.451174487581679" y="-1.7177414637244093" z="0"/>
+        <viz:size value="10"/>
+        <viz:position x="2.714740499029351" y="3.097612881810722" z="0"/>
       </node>
       <node id="graph/health/Apathy.md" label="Apathy.md">
         <viz:color r="255" g="255" b="255"/>
-        <viz:size value="3"/>
-        <viz:position x="-4.775779300289454" y="4.0942391446837885" z="0"/>
+        <viz:size value="10"/>
+        <viz:position x="4.631060346688265" y="-4.421887141393395" z="0"/>
       </node>
       <node id="graph/health/boredom.md" label="boredom.md">
         <viz:color r="255" g="255" b="255"/>
-        <viz:size value="3"/>
-        <viz:position x="4.182659417829065" y="-0.6205338804603677" z="0"/>
+        <viz:size value="10"/>
+        <viz:position x="2.3479178750410217" y="-3.938975734668664" z="0"/>
       </node>
       <node id="graph/programming/Principles/SOLID/dependency-inversion.md" label="dependency-inversion.md">
         <viz:color r="255" g="255" b="255"/>
-        <viz:size value="3"/>
-        <viz:position x="-1.9477035609096416" y="-4.674535736373134" z="0"/>
+        <viz:size value="10"/>
+        <viz:position x="0.5777515935345479" y="3.9133840138190976" z="0"/>
       </node>
       <node id="graph/programming/Principles/SOLID/interface-segregation-principle.md" label="interface-segregation-principle.md">
         <viz:color r="255" g="255" b="255"/>
-        <viz:size value="3"/>
-        <viz:position x="2.6032144055943673" y="-1.6558568206378466" z="0"/>
+        <viz:size value="10"/>
+        <viz:position x="-0.7518005084841706" y="3.068540424036998" z="0"/>
       </node>
       <node id="graph/programming/Principles/SOLID/liskov-substitution-principle.md" label="liskov-substitution-principle.md">
         <viz:color r="255" g="255" b="255"/>
-        <viz:size value="3"/>
-        <viz:position x="-3.337623189608596" y="-0.7977806566994232" z="0"/>
+        <viz:size value="10"/>
+        <viz:position x="4.499988935413995" y="-0.014094998525544966" z="0"/>
       </node>
       <node id="graph/programming/Principles/SOLID/open-closed-principle.md" label="open-closed-principle.md">
         <viz:color r="255" g="255" b="255"/>
-        <viz:size value="3"/>
-        <viz:position x="-1.6965197513360475" y="-3.1157182937237216" z="0"/>
+        <viz:size value="10"/>
+        <viz:position x="-3.334769428738069" y="-3.406777988209504" z="0"/>
       </node>
       <node id="graph/programming/Principles/SOLID/single-responsibility-principle.md" label="single-responsibility-principle.md">
         <viz:color r="255" g="255" b="255"/>
-        <viz:size value="3"/>
-        <viz:position x="3.4417256559918776" y="-2.410239379763648" z="0"/>
+        <viz:size value="10"/>
+        <viz:position x="-1.7962237427796768" y="-2.196634723640236" z="0"/>
       </node>
       <node id="graph/programming/Principles/Event Sourcing.md" label="Event Sourcing.md">
         <viz:color r="255" g="255" b="255"/>
-        <viz:size value="3"/>
-        <viz:position x="-1.4529755683455958" y="-4.255185073403527" z="0"/>
+        <viz:size value="10"/>
+        <viz:position x="4.8237215668781595" y="-0.7976557725355065" z="0"/>
       </node>
       <node id="graph/programming/Principles/event-driven-architecture.md" label="event-driven-architecture.md">
         <viz:color r="255" g="255" b="255"/>
-        <viz:size value="3"/>
-        <viz:position x="3.780428958629056" y="0.8840374903145936" z="0"/>
+        <viz:size value="10"/>
+        <viz:position x="-1.4684786903555724" y="-4.513603162196727" z="0"/>
       </node>
       <node id="graph/programming/Principles/message-driven-architecture.md" label="message-driven-architecture.md">
         <viz:color r="255" g="255" b="255"/>
-        <viz:size value="3"/>
-        <viz:position x="2.7313407675488506" y="-4.550209823970979" z="0"/>
+        <viz:size value="10"/>
+        <viz:position x="2.958702583082971" y="3.0734515627374392" z="0"/>
       </node>
       <node id="resources/Can't hurt me (David Goggins).md" label="Can't hurt me (David Goggins).md">
         <viz:color r="255" g="255" b="255"/>
-        <viz:size value="3"/>
-        <viz:position x="0.808799689899069" y="1.909618600432017" z="0"/>
+        <viz:size value="10"/>
+        <viz:position x="4.057293994372365" y="-3.7938556467395856" z="0"/>
       </node>
       <node id="resources/Design Patterns - Element of Reusable Object-Oriented Software.md" label="Design Patterns - Element of Reusable Object-Oriented Software.md">
         <viz:color r="255" g="255" b="255"/>
-        <viz:size value="3"/>
-        <viz:position x="-3.203957035785623" y="2.8089801731548274" z="0"/>
+        <viz:size value="10"/>
+        <viz:position x="2.5778117438489723" y="-3.803112796761061" z="0"/>
       </node>
       <node id="resources/On the Function of Boredom.md" label="On the Function of Boredom.md">
         <viz:color r="255" g="255" b="255"/>
-        <viz:size value="3"/>
-        <viz:position x="-2.215831664720671" y="-4.982363577630007" z="0"/>
+        <viz:size value="10"/>
+        <viz:position x="2.1561079119455346" y="2.2461009773899976" z="0"/>
       </node>
       <node id="resources/Отрасти бороду ДАЖЕ ЕСЛИ у тебя лицо подростка..md" label="Отрасти бороду ДАЖЕ ЕСЛИ у тебя лицо подростка..md">
         <viz:color r="255" g="255" b="255"/>
-        <viz:size value="3"/>
-        <viz:position x="4.92264476228106" y="-3.9655138363472475" z="0"/>
+        <viz:size value="10"/>
+        <viz:position x="-0.35531345599981723" y="-0.2347746929012784" z="0"/>
       </node>
       <node id="What to read.md" label="What to read.md">
         <viz:color r="255" g="255" b="255"/>
-        <viz:size value="3"/>
-        <viz:position x="-0.7052391322799023" y="1.4291749295029366" z="0"/>
+        <viz:size value="10"/>
+        <viz:position x="-0.6236034674808666" y="-4.570207582056338" z="0"/>
       </node>
     </nodes>
     <edges>
-      <edge id="geid_161_0" source="graph/economics/banking/Islamic Banking.md" target="graph/economics/ideology/Marxism.md"/>
-      <edge id="geid_161_1" source="graph/economics/banking/Islamic Banking.md" target="graph/economics/ideology/Neoliberal Capitalism.md"/>
-      <edge id="geid_161_2" source="graph/health/chemicals/Minoxidil.md" target="graph/health/chemicals/tretinoin.md"/>
-      <edge id="geid_161_3" source="graph/health/chemicals/Minoxidil.md" target="resources/Отрасти бороду ДАЖЕ ЕСЛИ у тебя лицо подростка..md"/>
-      <edge id="geid_161_4" source="graph/health/chemicals/tretinoin.md" target="resources/Отрасти бороду ДАЖЕ ЕСЛИ у тебя лицо подростка..md"/>
-      <edge id="geid_161_5" source="graph/health/Apathy.md" target="resources/On the Function of Boredom.md"/>
-      <edge id="geid_161_6" source="graph/health/boredom.md" target="resources/On the Function of Boredom.md"/>
-      <edge id="geid_161_7" source="graph/health/boredom.md" target="graph/health/Apathy.md"/>
-      <edge id="geid_161_8" source="graph/programming/Principles/message-driven-architecture.md" target="graph/programming/Principles/event-driven-architecture.md"/>
+      <edge id="geid_190_0" source="graph/economics/banking/Islamic Banking.md" target="graph/economics/ideology/Marxism.md"/>
+      <edge id="geid_190_1" source="graph/economics/banking/Islamic Banking.md" target="graph/economics/ideology/Neoliberal Capitalism.md"/>
+      <edge id="geid_190_2" source="graph/health/chemicals/Minoxidil.md" target="graph/health/chemicals/tretinoin.md"/>
+      <edge id="geid_190_3" source="graph/health/chemicals/Minoxidil.md" target="resources/Отрасти бороду ДАЖЕ ЕСЛИ у тебя лицо подростка..md"/>
+      <edge id="geid_190_4" source="graph/health/chemicals/tretinoin.md" target="resources/Отрасти бороду ДАЖЕ ЕСЛИ у тебя лицо подростка..md"/>
+      <edge id="geid_190_5" source="graph/health/Apathy.md" target="resources/On the Function of Boredom.md"/>
+      <edge id="geid_190_6" source="graph/health/boredom.md" target="resources/On the Function of Boredom.md"/>
+      <edge id="geid_190_7" source="graph/health/boredom.md" target="graph/health/Apathy.md"/>
+      <edge id="geid_190_8" source="graph/programming/Principles/message-driven-architecture.md" target="graph/programming/Principles/event-driven-architecture.md"/>
     </edges>
   </graph>
 </gexf>
