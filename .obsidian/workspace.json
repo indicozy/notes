@@ -71,8 +71,12 @@
             "id": "d7e201fdeff73064",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "graph/economics/banking/Islamic Banking.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -142,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "graph/economics/banking/Islamic Banking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "graph/economics/banking/Islamic Banking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +185,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "graph/economics/banking/Islamic Banking.md"
+              }
             }
           },
           {
