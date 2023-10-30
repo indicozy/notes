@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graph/programming/Principles/Design patterns/Untitled.md",
+                "file": "graph/programming/Principles/Design patterns/factory-method.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph/programming/Principles/Design patterns/Untitled.md",
+                "file": "graph/programming/Principles/Design patterns/factory-method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph/programming/Principles/Design patterns/Untitled.md",
+                "file": "graph/programming/Principles/Design patterns/factory-method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "graph/programming/Principles/Design patterns/Untitled.md"
+                "file": "graph/programming/Principles/Design patterns/factory-method.md"
               }
             }
           },
@@ -224,7 +224,7 @@
   "active": "d7e201fdeff73064",
   "lastOpenFiles": [
     "graph/economics/banking/Islamic Banking.md",
-    "graph/programming/Principles/Design patterns/Untitled.md",
+    "graph/programming/Principles/Design patterns/factory-method.md",
     "graph/programming/Principles/Design patterns",
     "graph/programming/Principles/SOLID/open-closed-principle.md",
     "graph/programming/Principles/SOLID/liskov-substitution-principle.md",
