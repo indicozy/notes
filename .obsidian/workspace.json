@@ -193,7 +193,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graph/programming/design-patterns/creational-patterns/prototype.md",
+                "file": "graph/programming/design-patterns/creational-patterns/abstract-factory.md",
                 "mode": "source",
                 "source": false
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph/programming/design-patterns/creational-patterns/prototype.md",
+                "file": "graph/programming/design-patterns/creational-patterns/abstract-factory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph/programming/design-patterns/creational-patterns/prototype.md",
+                "file": "graph/programming/design-patterns/creational-patterns/abstract-factory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "graph/programming/design-patterns/creational-patterns/prototype.md"
+                "file": "graph/programming/design-patterns/creational-patterns/abstract-factory.md"
               }
             }
           },
@@ -343,14 +343,17 @@
   },
   "active": "8ec1fb09596b0f4e",
   "lastOpenFiles": [
+    "attachments/Pasted image 20231030182312.png",
+    "graph/programming/design-patterns/creational-patterns/builder.md",
+    "graph/programming/design-patterns/creational-patterns/factory-method.md",
+    "graph/programming/design-patterns/creational-patterns/prototype.md",
+    "graph/programming/design-patterns/structural-patterns/decorator.md",
+    "_tmp_1783_2fc9450ae7297db29031f44cbd41e67e",
     "graph/programming/design-patterns/behavioral-patterns/commands.md",
     "graph/programming/design-patterns/behavioral-patterns",
-    "graph/programming/design-patterns/creational-patterns/prototype.md",
     "graph/programming/design-patterns/creational-patterns/singleton.md",
-    "graph/programming/design-patterns/creational-patterns/factory-method.md",
     "graph/programming/design-patterns/structural-patterns/flyweight.md",
     "graph/programming/design-patterns/structural-patterns/facade.md",
-    "graph/programming/design-patterns/creational-patterns/builder.md",
     "graph/programming/design-patterns/structural-patterns/bridge.md",
     "_tmp_1516_d3aab773128c518d875033bd3cb0ea3f",
     "graph/programming/design-patterns/structural-patterns/composite.md",
@@ -376,12 +379,10 @@
     "graph/programming/design-patterns/iterator.md",
     "graph/programming/OOP/default-behaviors.md",
     "graph/programming/Principles/message-driven-architecture.md",
-    "graph/programming/OOP",
     "attachments/Pasted image 20231030171941.png",
     "graph/economics/banking/Islamic Banking.md",
     "graph/programming/Principles/SOLID/open-closed-principle.md",
     "graph/programming/Principles/SOLID/liskov-substitution-principle.md",
-    "graph/programming/Principles/SOLID/interface-segregation-principle.md",
     "attachments/Pasted image 20231027005229.png",
     "Pasted image 20231015163937.png",
     "Untitled.canvas"
