@@ -14,7 +14,9 @@ Singleton ensures that class has only one instance so everyone is working with a
 5. Also,it is hard to do unit test with it, because unit test was made SPECIFICALLY to test things independently.
 
 ## Relations with other patterns
-
+- [[graph/programming/design-patterns/structural-patterns/facade|facade]] is usually transformed into a singleton since a single facade is enough for most cases.
+- [[graph/programming/design-patterns/structural-patterns/flyweight|flyweight]] resembles singleton. it's mostly a hash map of **immutable** singletons.
+- [[graph/programming/design-patterns/creational-patterns/abstract-factory|abstract-factory]], [[graph/programming/design-patterns/creational-patterns/builder|builder]], [[graph/programming/design-patterns/creational-patterns/prototype|prototype]] can be implemented as singletons.
 
 ## Sources
 - https://refactoring.guru/design-patterns/singleton

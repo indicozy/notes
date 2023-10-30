@@ -2,3 +2,11 @@ Prototype lets classes to implement how they would clone their instances. It is 
 
 ![[attachments/Pasted image 20231030175621.png]]
 
+## When it's applicable
+1. When your code shouldn't depend on the concrete classes of objects that you are copying (?).
+2. *Use the pattern when you want to reduce the number of subclasses that only differ in the way they initialize their respective objects.* (?)
+
+## Relations with other patterns
+- Prototype usually starts by using [[graph/programming/design-patterns/creational-patterns/factory-method|factory-method]]
+- [[graph/programming/design-patterns/creational-patterns/prototype|prototype]] can help when you need to save copies of [[graph/programming/design-patterns/behavioral-patterns/commands|commands]] into history.
+- 

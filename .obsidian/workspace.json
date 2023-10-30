@@ -150,9 +150,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "25bd201dbbcaf901",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "graph/programming/design-patterns/creational-patterns/singleton.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88bc12fb1f650dd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "graph/programming/design-patterns/creational-patterns/singleton.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28b6b96c02842b32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "graph/programming/design-patterns/creational-patterns/prototype.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ec1fb09596b0f4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "graph/programming/design-patterns/creational-patterns/prototype.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -218,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph/programming/design-patterns/creational-patterns/builder.md",
+                "file": "graph/programming/design-patterns/creational-patterns/prototype.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph/programming/design-patterns/creational-patterns/builder.md",
+                "file": "graph/programming/design-patterns/creational-patterns/prototype.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "graph/programming/design-patterns/creational-patterns/builder.md"
+                "file": "graph/programming/design-patterns/creational-patterns/prototype.md"
               }
             }
           },
@@ -293,11 +341,18 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d524ecccdd853048",
+  "active": "8ec1fb09596b0f4e",
   "lastOpenFiles": [
-    "graph/programming/design-patterns/creational-patterns/singleton.md",
+    "graph/programming/design-patterns/behavioral-patterns/commands.md",
+    "graph/programming/design-patterns/behavioral-patterns",
     "graph/programming/design-patterns/creational-patterns/prototype.md",
+    "graph/programming/design-patterns/creational-patterns/singleton.md",
+    "graph/programming/design-patterns/creational-patterns/factory-method.md",
+    "graph/programming/design-patterns/structural-patterns/flyweight.md",
+    "graph/programming/design-patterns/structural-patterns/facade.md",
     "graph/programming/design-patterns/creational-patterns/builder.md",
+    "graph/programming/design-patterns/structural-patterns/bridge.md",
+    "_tmp_1516_d3aab773128c518d875033bd3cb0ea3f",
     "graph/programming/design-patterns/structural-patterns/composite.md",
     "graph/programming/design-patterns/structural-patterns",
     "graph/programming/functional-programming/currying.md",
@@ -316,24 +371,17 @@
     "graph/programming/Principles/design-patterns/Untitled.md",
     "graph/programming/design-patterns/creational-patterns",
     "attachments/Pasted image 20231030174642.png",
-    "graph/programming/design-patterns/creational-patterns/factory-method.md",
     "_tmp_983_71c81598ed5d8afa9215a9567c07cf9f",
     "graph/programming/design-patterns/template-method.md",
     "graph/programming/design-patterns/iterator.md",
     "graph/programming/OOP/default-behaviors.md",
     "graph/programming/Principles/message-driven-architecture.md",
     "graph/programming/OOP",
-    "_tmp_706_86f2e06529823c0c1f3cd1f868b9fcb1",
-    "_tmp_439_7858f2097f3e4382e8984725dc6792fc",
     "attachments/Pasted image 20231030171941.png",
     "graph/economics/banking/Islamic Banking.md",
     "graph/programming/Principles/SOLID/open-closed-principle.md",
     "graph/programming/Principles/SOLID/liskov-substitution-principle.md",
     "graph/programming/Principles/SOLID/interface-segregation-principle.md",
-    "graph/economics/ideology/Neoliberal Capitalism.md",
-    "graph/economics/ideology/Marxism.md",
-    "graph/programming/Principles/event-driven-architecture.md",
-    "resources/On the Function of Boredom.md",
     "attachments/Pasted image 20231027005229.png",
     "Pasted image 20231015163937.png",
     "Untitled.canvas"

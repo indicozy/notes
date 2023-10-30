@@ -17,4 +17,5 @@ class Pizza {
 
 ## Relations with other patterns
 - Many builders start by using [[graph/programming/design-patterns/creational-patterns/factory-method|factory-method]] and then evolving towards builder.
-- 
+- You can combine builder with [[graph/programming/design-patterns/structural-patterns/bridge|bridge]] pattern: the director class plays the role of the abstraction, while builders act as implementations.
+- While builder makes objects step-by-step, [[graph/programming/design-patterns/creational-patterns/abstract-factory|abstract-factory]] returns the product immediately.
