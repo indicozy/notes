@@ -191,12 +191,8 @@
             "id": "8ec1fb09596b0f4e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph/programming/design-patterns/creational-patterns/abstract-factory.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -266,7 +262,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph/programming/design-patterns/creational-patterns/abstract-factory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +278,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph/programming/design-patterns/creational-patterns/abstract-factory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -305,9 +299,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "graph/programming/design-patterns/creational-patterns/abstract-factory.md"
-              }
+              "state": {}
             }
           },
           {
@@ -343,6 +335,8 @@
   },
   "active": "8ec1fb09596b0f4e",
   "lastOpenFiles": [
+    "graph/programming/design-patterns/creational-patterns/abstract-factory.md",
+    "_tmp_2044_73eb20d0f2441b7e944a052c2c486839",
     "attachments/Pasted image 20231030182312.png",
     "graph/programming/design-patterns/creational-patterns/builder.md",
     "graph/programming/design-patterns/creational-patterns/factory-method.md",
@@ -365,7 +359,6 @@
     "graph/programming/multithreading/multithreading.md",
     "graph/programming/multithreading",
     "graph/programming/functional-programming/side-effect.md",
-    "graph/programming/design-patterns/creational-patterns/abstract-factory.md",
     "graph/programming/functional-programming/functional-programming.md",
     "graph/programming/design-patterns/creational-patterns/functional-programming.md",
     "graph/programming/functional-programming",
@@ -374,7 +367,6 @@
     "graph/programming/Principles/design-patterns/Untitled.md",
     "graph/programming/design-patterns/creational-patterns",
     "attachments/Pasted image 20231030174642.png",
-    "_tmp_983_71c81598ed5d8afa9215a9567c07cf9f",
     "graph/programming/design-patterns/template-method.md",
     "graph/programming/design-patterns/iterator.md",
     "graph/programming/OOP/default-behaviors.md",
