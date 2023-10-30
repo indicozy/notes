@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graph/economics/banking/Islamic Banking.md",
+                "file": "graph/programming/Principles/Design patterns/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph/economics/banking/Islamic Banking.md",
+                "file": "graph/programming/Principles/Design patterns/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph/economics/banking/Islamic Banking.md",
+                "file": "graph/programming/Principles/Design patterns/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "graph/economics/banking/Islamic Banking.md"
+                "file": "graph/programming/Principles/Design patterns/Untitled.md"
               }
             }
           },
@@ -223,6 +223,9 @@
   },
   "active": "d7e201fdeff73064",
   "lastOpenFiles": [
+    "graph/economics/banking/Islamic Banking.md",
+    "graph/programming/Principles/Design patterns/Untitled.md",
+    "graph/programming/Principles/Design patterns",
     "graph/programming/Principles/SOLID/open-closed-principle.md",
     "graph/programming/Principles/SOLID/liskov-substitution-principle.md",
     "graph/programming/Principles/SOLID/interface-segregation-principle.md",
@@ -248,12 +251,10 @@
     "graph/health/Apathy.md",
     "graph/health/chemicals/tretinoin.md",
     "graph/health/chemicals/Minoxidil.md",
-    "graph/economics/banking/Islamic Banking.md",
     "What to read.md",
     "graph/economics/ideology",
     "graph/economics/Untitled.md",
     "graph/economics/banking",
-    "graph/economics",
     "resources/Отрасти бороду ДАЖЕ ЕСЛИ у тебя лицо подростка..md",
     "Pasted image 20231015163937.png",
     "Untitled.canvas",
