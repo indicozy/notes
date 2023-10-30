@@ -5,7 +5,7 @@ Factory provides interface which subclasses will follow to create objects, but s
 ![[attachments/Pasted image 20231030171941.png]]
 
 ## When to use it?
-IDK
+IDK.
 
 ## How to implement?
 1. Make all products follow the interface of the Factory. Interface should make sense for every product.
@@ -17,8 +17,11 @@ IDK
 6. 1. If the base factory method has become empty, you can make it abstract. *If there’s something left, you can make it a [[graph/programming/OOP/default-behaviors|default behaviors]] of the method.* (But I don't like default behaviors)
 
 ## Relations with other patterns
-- Many start using Factory Method, which is less complicated and more customizable via subclasses, and then evolve it to [[graph/programming/Principles/Design patterns/abstract-factory|abstract-factory]], [[graph/programming/Principles/Design patterns/prototype|prototype]] or [[graph/programming/Principles/Design patterns/builder|builder]], which are more compllicated.
-- [[graph/programming/Principles/Design patterns/abstract-factory|abstract-factory]] classes are based on a set of factory methods, but you can also use [[graph/programming/Principles/Design patterns/prototype|prototype]] to compose methods on these classes. (I didn't really get that)
-- You can add [[graph/programming/Principles/Design patterns/iterator|iterator]] abstract method to collection creators to return different types of iterators which are compatible to their own collections.
-- [[graph/programming/Principles/Design patterns/prototype|prototype]] requires initialization, but it isn't based on inheritance. Factory method is inversed: it is based on inheritance but doesn't require an initialization step.
-- Factory method is a specialization of [[graph/programming/Principles/Design patterns/template-method]]. So factory method can be evolved to a large [[graph/programming/Principles/Design patterns/template-method|template-method]].
+- Many start using Factory Method, which is less complicated and more customizable via subclasses, and then evolve it to [[graph/programming/design-patterns/creational-patterns/abstract-factory|abstract-factory]], [[graph/programming/design-patterns/creational-patterns/prototype|prototype]] or [[graph/programming/design-patterns/creational-patterns/builder|builder]], which are more compllicated.
+- [[graph/programming/design-patterns/creational-patterns/abstract-factory|abstract-factory]] classes are based on a set of factory methods, but you can also use [[graph/programming/design-patterns/creational-patterns/prototype|prototype]] to compose methods on these classes. (I didn't really get that)
+- You can add [[graph/programming/design-patterns/iterator|iterator]] abstract method to collection creators to return different types of iterators which are compatible to their own collections.
+- [[graph/programming/design-patterns/creational-patterns/prototype|prototype]] requires initialization, but it isn't based on inheritance. Factory method is inversed: it is based on inheritance but doesn't require an initialization step.
+- Factory method is a specialization of [[graph/programming/design-patterns/template-method]]. So factory method can be evolved to a large [[graph/programming/design-patterns/template-method|template-method]].
+
+## Sources
+- https://refactoring.guru/design-patterns/factory-method
