@@ -78,9 +78,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0e88c7f173205830",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "graph/programming/Principles/Design patterns/factory-method.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "461fa5af47e22209",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "graph/programming/Principles/Design patterns/factory-method.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10c5dedd39a386d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "graph/programming/Principles/Design patterns/factory-method.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "080219763c67f2b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "graph/programming/Principles/Design patterns/factory-method.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -221,8 +269,18 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d7e201fdeff73064",
+  "active": "080219763c67f2b0",
   "lastOpenFiles": [
+    "graph/programming/Principles/Design patterns/builder.md",
+    "graph/programming/Principles/Design patterns/template-method.md",
+    "graph/programming/Principles/Design patterns/factory-method.md",
+    "graph/programming/Principles/Design patterns/iterator.md",
+    "graph/programming/Principles/Design patterns/abstract-factory.md",
+    "graph/programming/Principles/Design patterns/prototype.md",
+    "graph/programming/OOP/default-behaviors.md",
+    "graph/programming/Principles/message-driven-architecture.md",
+    "graph/programming/OOP",
+    "_tmp_706_86f2e06529823c0c1f3cd1f868b9fcb1",
     "_tmp_439_7858f2097f3e4382e8984725dc6792fc",
     "attachments/Pasted image 20231030171941.png",
     "_tmp_180_4d5802d4bc8bd15dab81d9a42a631150",
@@ -233,16 +291,11 @@
     "_tmp_9649_0e828527a1b404a6b24b2d16c8ea4da0",
     "_tmp_9346_87cee962206180c13489dc9c428665f7",
     "graph/economics/banking/Islamic Banking.md",
-    "graph/programming/Principles/Design patterns/factory-method.md",
-    "graph/programming/Principles/Design patterns",
     "graph/programming/Principles/SOLID/open-closed-principle.md",
     "graph/programming/Principles/SOLID/liskov-substitution-principle.md",
     "graph/programming/Principles/SOLID/interface-segregation-principle.md",
     "graph/economics/ideology/Neoliberal Capitalism.md",
     "graph/economics/ideology/Marxism.md",
-    "graph/programming/Principles/message-driven-architecture.md",
-    "package.json",
-    "package.json.558948587",
     "graph/programming/Principles/event-driven-architecture.md",
     "resources/On the Function of Boredom.md",
     "resources/Design Patterns - Element of Reusable Object-Oriented Software.md",
@@ -256,12 +309,7 @@
     "graph/health/chemicals/tretinoin.md",
     "graph/health/chemicals/Minoxidil.md",
     "What to read.md",
-    "graph/economics/Untitled.md",
-    "resources/Отрасти бороду ДАЖЕ ЕСЛИ у тебя лицо подростка..md",
     "Pasted image 20231015163937.png",
-    "Untitled.canvas",
-    "202310152303.md",
-    "Excalidraw/Drawing 2023-10-15 23.02.45.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-15 23.02.42.excalidraw.md"
+    "Untitled.canvas"
   ]
 }
