@@ -191,8 +191,12 @@
             "id": "8ec1fb09596b0f4e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "What to read.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -262,6 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "What to read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,6 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "What to read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +305,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "What to read.md"
+              }
             }
           },
           {
