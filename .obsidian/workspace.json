@@ -217,14 +217,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graph/economics/ideology/Neoliberal Capitalism.md",
+                "file": "graph/programming/system-design/proxy/nginx.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46b09d1a56372a21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "graph/programming/internet-fundamentals/url.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -290,7 +302,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph/economics/ideology/Neoliberal Capitalism.md",
+                "file": "graph/programming/internet-fundamentals/url.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +319,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph/economics/ideology/Neoliberal Capitalism.md",
+                "file": "graph/programming/internet-fundamentals/url.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,7 +342,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "graph/economics/ideology/Neoliberal Capitalism.md"
+                "file": "graph/programming/internet-fundamentals/url.md"
               }
             }
           },
@@ -365,16 +377,28 @@
       "random-note:Open random note": false
     }
   },
-  "active": "1bf3bedeab88374c",
+  "active": "46b09d1a56372a21",
   "lastOpenFiles": [
+    "attachments/Pasted image 20231101152428.png",
+    "graph/programming/system-design/proxy/load-balancing.md",
+    "graph/programming/internet-fundamentals/url.md",
+    "attachments/Pasted image 20231101152229.png",
+    "graph/programming/system-design/proxy/reverse-proxy.md",
+    "graph/programming/system-design/proxy/nginx.md",
+    "graph/programming/system-design/proxy/apache.md",
+    "graph/programming/system-design/proxy",
+    "graph/programming/internet-fundamentals/Untitled.md",
+    "attachments/Pasted image 20231101151935.png",
+    "graph/programming/internet-fundamentals/protocols/tcp.md",
+    "attachments/Pasted image 20231101151716.png",
+    "graph/health/chemicals/tretinoin.md",
+    "_tmp_153_3a14478d8aa8d04b33f269af803e4f0e",
     "graph/programming/design-patterns/template-method.md",
     "graph/programming/internet-fundamentals/osi-model.md",
-    "graph/programming/internet-fundamentals/Untitled.md",
     "graph/programming/internet-fundamentals/Untitled 1.md",
     "graph/programming/internet-fundamentals/Untitled 2.md",
     "_tmp_165_248e851a04f8e2fa692518ffa9bfb76d",
     "attachments/Pasted image 20231101125902.png",
-    "graph/programming/internet-fundamentals/protocols/tcp.md",
     "graph/programming/system-design/api/gateway.md",
     "_tmp_1515_b7855787818f3af9a1d7551cc81a23f9",
     "attachments/Pasted image 20231101123012.png",
@@ -399,20 +423,8 @@
     "graph/programming/internet-fundamentals/protocols/udp.md",
     "graph/programming/internet-fundamentals/protocols",
     "graph/programming/internet-fundamentals",
-    "graph/programming/Untitled.md",
     "attachments/Pasted image 20231101111929.png",
-    "graph/programming/system-design/other/hol-blocking.md",
     "graph/programming/system-design/other",
-    "graph/programming/system-design/commmunication-protocols/grpc.md",
-    "graph/programming/system-design/commmunication-protocols/webhook.md",
-    "graph/programming/system-design/http",
-    "attachments/Pasted image 20231101111517.png",
-    "attachments/Pasted image 20231101111441.png",
-    "graph/programming/Principles/SOLID/liskov-substitution-principle.md",
-    "attachments/Pasted image 20231101111135.jpg",
-    "graph/programming/system-design/commmunication-protocols",
-    "What to read.md",
-    "graph/programming/design-patterns/creational-patterns/abstract-factory.md",
     "Untitled.canvas"
   ]
 }
