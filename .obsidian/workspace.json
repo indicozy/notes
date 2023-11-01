@@ -193,7 +193,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graph/programming/system-design/Communication protocols.md",
+                "file": "graph/programming/system-design/http/history-of-http.md",
                 "mode": "source",
                 "source": false
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph/programming/system-design/Communication protocols.md",
+                "file": "graph/programming/system-design/http/history-of-http.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph/programming/system-design/Communication protocols.md",
+                "file": "graph/programming/system-design/http/history-of-http.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "graph/programming/system-design/Communication protocols.md"
+                "file": "graph/programming/system-design/http/history-of-http.md"
               }
             }
           },
@@ -343,8 +343,22 @@
   },
   "active": "8ec1fb09596b0f4e",
   "lastOpenFiles": [
+    "attachments/Pasted image 20231101111929.png",
+    "graph/programming/system-design/other/hol-blocking.md",
+    "graph/programming/system-design/http/history-of-http.md",
+    "graph/programming/system-design/other",
+    "graph/programming/system-design/commmunication-protocols/communication-protocols.md",
+    "graph/programming/system-design/commmunication-protocols/grpc.md",
+    "graph/programming/system-design/commmunication-protocols/webhook.md",
+    "graph/programming/system-design/commmunication-protocols/rest.md",
+    "graph/programming/system-design/http",
+    "attachments/Pasted image 20231101111517.png",
+    "attachments/Pasted image 20231101111441.png",
+    "graph/programming/Principles/SOLID/liskov-substitution-principle.md",
+    "attachments/Pasted image 20231101111135.jpg",
+    "graph/programming/system-design/commmunication-protocols",
+    "_tmp_471_42ec6f3dcc33a9b20d464e0278a2f6a0",
     "What to read.md",
-    "graph/programming/system-design/Communication protocols.md",
     "graph/programming/system-design",
     "_tmp_211_029b7d4092b73fe2ca466a070426908f",
     "graph/programming/design-patterns/creational-patterns/abstract-factory.md",
@@ -363,27 +377,16 @@
     "graph/programming/design-patterns/structural-patterns/bridge.md",
     "_tmp_1516_d3aab773128c518d875033bd3cb0ea3f",
     "graph/programming/design-patterns/structural-patterns/composite.md",
-    "graph/programming/design-patterns/structural-patterns",
     "graph/programming/functional-programming/currying.md",
     "attachments/Pasted image 20231030180042.png",
     "attachments/Pasted image 20231030175621.png",
-    "_tmp_1250_146c9f38811115c0045fe59eafcd3103",
     "graph/programming/multithreading/multithreading.md",
-    "graph/programming/multithreading",
     "graph/programming/functional-programming/side-effect.md",
     "graph/programming/functional-programming/functional-programming.md",
     "graph/programming/design-patterns/creational-patterns/functional-programming.md",
-    "graph/programming/functional-programming",
     "graph/programming/design-patterns/dependency-injection.md",
-    "graph/programming/Principles/design-patterns/Untitled.md",
     "attachments/Pasted image 20231030174642.png",
-    "graph/programming/design-patterns/template-method.md",
-    "graph/programming/design-patterns/iterator.md",
-    "graph/programming/OOP/default-behaviors.md",
-    "graph/programming/Principles/message-driven-architecture.md",
     "attachments/Pasted image 20231030171941.png",
-    "graph/economics/banking/Islamic Banking.md",
-    "graph/programming/Principles/SOLID/open-closed-principle.md",
     "attachments/Pasted image 20231027005229.png",
     "Pasted image 20231015163937.png",
     "Untitled.canvas"
