@@ -251,12 +251,8 @@
             "id": "0ae40e53dbec6179",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "What to read.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -326,7 +322,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What to read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -343,7 +338,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What to read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -365,9 +359,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "What to read.md"
-              }
+              "state": {}
             }
           },
           {
@@ -403,6 +395,8 @@
   },
   "active": "0ae40e53dbec6179",
   "lastOpenFiles": [
+    "What to read.md",
+    "_tmp_165_1c893a3067fc0188c6417badd2c6a950",
     "graph/programming/system-design/architecture-patterns/viper.md",
     "attachments/Pasted image 20231101181249.png",
     "graph/programming/system-design/architecture-patterns/mvvm.md",
@@ -427,14 +421,12 @@
     "_tmp_932_f5b407af6e434793ed889ce827be0925",
     "attachments/Pasted image 20231101160901.png",
     "_tmp_671_453c117b94f1efc02a52de62012b3d68",
-    "What to read.md",
     "graph/programming/system-design/architecture-patterns",
     "graph/programming/system-design/ci-cd/ci-cd.md",
     "graph/programming/system-design/ci-cd/end-to-end-tests.md",
     "attachments/Pasted image 20231101152633.png",
     "graph/programming/internet-fundamentals/url.md",
     "graph/programming/system-design/ci-cd",
-    "_tmp_410_f52ee83fcf67c97ac812722ab16fd962",
     "attachments/Pasted image 20231101152428.png",
     "graph/programming/system-design/proxy/load-balancing.md",
     "graph/programming/system-design/proxy/reverse-proxy.md",
