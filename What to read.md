@@ -3,3 +3,12 @@
 - идеальный программист роберт мартин - для тимлида
 - Метод параноика - для тимлида
 - ReWork
+
+## Programming
+- Confluence
+- Jenkins
+- Gradle
+- Netflix
+- Spinnaker
+- Kayenta
+- PagerDuty

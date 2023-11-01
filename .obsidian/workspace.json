@@ -229,14 +229,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graph/programming/internet-fundamentals/url.md",
+                "file": "graph/programming/system-design/ci-cd/ci-cd.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b05a4be4a555a74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "graph/programming/system-design/architecture-patterns/mvc-.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -302,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph/programming/internet-fundamentals/url.md",
+                "file": "graph/programming/system-design/architecture-patterns/mvc-.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,7 +331,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph/programming/internet-fundamentals/url.md",
+                "file": "graph/programming/system-design/architecture-patterns/mvc-.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -342,7 +354,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "graph/programming/internet-fundamentals/url.md"
+                "file": "graph/programming/system-design/architecture-patterns/mvc-.md"
               }
             }
           },
@@ -377,11 +389,19 @@
       "random-note:Open random note": false
     }
   },
-  "active": "46b09d1a56372a21",
+  "active": "1b05a4be4a555a74",
   "lastOpenFiles": [
+    "What to read.md",
+    "graph/programming/system-design/architecture-patterns/mvc-.md",
+    "graph/programming/system-design/architecture-patterns",
+    "graph/programming/system-design/ci-cd/ci-cd.md",
+    "graph/programming/system-design/ci-cd/end-to-end-tests.md",
+    "attachments/Pasted image 20231101152633.png",
+    "graph/programming/internet-fundamentals/url.md",
+    "graph/programming/system-design/ci-cd",
+    "_tmp_410_f52ee83fcf67c97ac812722ab16fd962",
     "attachments/Pasted image 20231101152428.png",
     "graph/programming/system-design/proxy/load-balancing.md",
-    "graph/programming/internet-fundamentals/url.md",
     "attachments/Pasted image 20231101152229.png",
     "graph/programming/system-design/proxy/reverse-proxy.md",
     "graph/programming/system-design/proxy/nginx.md",
@@ -414,17 +434,9 @@
     "_tmp_1004_c3c24166b51cc1c9663352d1de880e3b",
     "graph/programming/system-design/commmunication-protocols/websocket.md",
     "graph/programming/system-design/commmunication-protocols/soap.md",
-    "attachments/Pasted image 20231101112444.png",
     "graph/programming/system-design/commmunication-protocols/graphql.md",
     "graph/programming/system-design/commmunication-protocols/trpc.md",
     "graph/programming/system-design/commmunication-protocols/rest.md",
-    "graph/programming/system-design/http/history-of-http.md",
-    "graph/programming/internet-fundamentals/protocols/quic.md",
-    "graph/programming/internet-fundamentals/protocols/udp.md",
-    "graph/programming/internet-fundamentals/protocols",
-    "graph/programming/internet-fundamentals",
-    "attachments/Pasted image 20231101111929.png",
-    "graph/programming/system-design/other",
     "Untitled.canvas"
   ]
 }
