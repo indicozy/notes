@@ -193,7 +193,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What to read.md",
+                "file": "graph/programming/system-design/Communication protocols.md",
                 "mode": "source",
                 "source": false
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What to read.md",
+                "file": "graph/programming/system-design/Communication protocols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What to read.md",
+                "file": "graph/programming/system-design/Communication protocols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What to read.md"
+                "file": "graph/programming/system-design/Communication protocols.md"
               }
             }
           },
@@ -343,6 +343,10 @@
   },
   "active": "8ec1fb09596b0f4e",
   "lastOpenFiles": [
+    "What to read.md",
+    "graph/programming/system-design/Communication protocols.md",
+    "graph/programming/system-design",
+    "_tmp_211_029b7d4092b73fe2ca466a070426908f",
     "graph/programming/design-patterns/creational-patterns/abstract-factory.md",
     "_tmp_2044_73eb20d0f2441b7e944a052c2c486839",
     "attachments/Pasted image 20231030182312.png",
@@ -370,10 +374,8 @@
     "graph/programming/functional-programming/functional-programming.md",
     "graph/programming/design-patterns/creational-patterns/functional-programming.md",
     "graph/programming/functional-programming",
-    "graph/programming/Principles/Untitled",
     "graph/programming/design-patterns/dependency-injection.md",
     "graph/programming/Principles/design-patterns/Untitled.md",
-    "graph/programming/design-patterns/creational-patterns",
     "attachments/Pasted image 20231030174642.png",
     "graph/programming/design-patterns/template-method.md",
     "graph/programming/design-patterns/iterator.md",
@@ -382,7 +384,6 @@
     "attachments/Pasted image 20231030171941.png",
     "graph/economics/banking/Islamic Banking.md",
     "graph/programming/Principles/SOLID/open-closed-principle.md",
-    "graph/programming/Principles/SOLID/liskov-substitution-principle.md",
     "attachments/Pasted image 20231027005229.png",
     "Pasted image 20231015163937.png",
     "Untitled.canvas"
