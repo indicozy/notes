@@ -253,7 +253,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graph/programming/OOP/data-transfer-object.md",
+                "file": "What to read.md",
                 "mode": "source",
                 "source": false
               }
@@ -326,7 +326,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph/programming/OOP/data-transfer-object.md",
+                "file": "What to read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -343,7 +343,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph/programming/OOP/data-transfer-object.md",
+                "file": "What to read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -366,7 +366,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "graph/programming/OOP/data-transfer-object.md"
+                "file": "What to read.md"
               }
             }
           },
@@ -403,15 +403,22 @@
   },
   "active": "0ae40e53dbec6179",
   "lastOpenFiles": [
-    "graph/programming/OOP/plain-old-java-object.md",
-    "graph/programming/OOP/data-transfer-object.md",
-    "_tmp_1743_2f6dfd5fb58550adf1854bd2b89c05e0",
-    "graph/programming/OOP/default-behaviors.md",
-    "graph/programming/system-design/architecture-patterns/model.md",
-    "graph/programming/system-design/architecture-patterns/mvc-mvp-mvvm-mvvm-c-viper.md",
+    "graph/programming/system-design/architecture-patterns/viper.md",
+    "attachments/Pasted image 20231101181249.png",
     "graph/programming/system-design/architecture-patterns/mvvm.md",
     "graph/programming/system-design/architecture-patterns/mvp.md",
     "graph/programming/system-design/architecture-patterns/MVC.md",
+    "attachments/Pasted image 20231101180129.png",
+    "graph/programming/system-design/architecture-patterns/mvc-mvp-mvvm-mvvm-c-viper.md",
+    "attachments/Pasted image 20231101174742.png",
+    "attachments/Pasted image 20231101174739.png",
+    "graph/programming/OOP/data-transfer-object.md",
+    "_tmp_2280_a2f8ee09b0717c3d52c03e66cefe06f9",
+    "_tmp_2010_4850fb2778762a07064aaf5d3eae4367",
+    "graph/programming/OOP/plain-old-java-object.md",
+    "_tmp_1743_2f6dfd5fb58550adf1854bd2b89c05e0",
+    "graph/programming/OOP/default-behaviors.md",
+    "graph/programming/system-design/architecture-patterns/model.md",
     "attachments/Pasted image 20231101163612.png",
     "attachments/Pasted image 20231101163605.png",
     "attachments/Pasted image 20231101163559.png",
@@ -430,25 +437,17 @@
     "_tmp_410_f52ee83fcf67c97ac812722ab16fd962",
     "attachments/Pasted image 20231101152428.png",
     "graph/programming/system-design/proxy/load-balancing.md",
-    "attachments/Pasted image 20231101152229.png",
     "graph/programming/system-design/proxy/reverse-proxy.md",
     "graph/programming/system-design/proxy/nginx.md",
     "graph/programming/system-design/proxy/apache.md",
-    "graph/programming/system-design/proxy",
     "graph/programming/internet-fundamentals/Untitled.md",
-    "attachments/Pasted image 20231101151935.png",
     "graph/programming/internet-fundamentals/protocols/tcp.md",
-    "attachments/Pasted image 20231101151716.png",
     "graph/health/chemicals/tretinoin.md",
-    "_tmp_153_3a14478d8aa8d04b33f269af803e4f0e",
     "graph/programming/design-patterns/template-method.md",
     "graph/programming/internet-fundamentals/osi-model.md",
     "graph/programming/internet-fundamentals/Untitled 1.md",
     "graph/programming/internet-fundamentals/Untitled 2.md",
-    "attachments/Pasted image 20231101125902.png",
     "graph/programming/system-design/api/gateway.md",
-    "graph/programming/system-design/api/api.md",
-    "graph/programming/system-design/commmunication-protocols/communication-protocols.md",
     "Untitled.canvas"
   ]
 }
