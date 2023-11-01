@@ -217,7 +217,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graph/programming/system-design/commmunication-protocols/communication-protocols.md",
+                "file": "graph/programming/system-design/api/gateway.md",
                 "mode": "source",
                 "source": false
               }
@@ -290,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph/programming/system-design/commmunication-protocols/communication-protocols.md",
+                "file": "graph/programming/system-design/api/gateway.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph/programming/system-design/commmunication-protocols/communication-protocols.md",
+                "file": "graph/programming/system-design/api/gateway.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "graph/programming/system-design/commmunication-protocols/communication-protocols.md"
+                "file": "graph/programming/system-design/api/gateway.md"
               }
             }
           },
@@ -367,8 +367,17 @@
   },
   "active": "3af4a13b1af92acb",
   "lastOpenFiles": [
-    "graph/programming/system-design/commmunication-protocols/websocket.md",
+    "attachments/Pasted image 20231101122202.png",
+    "graph/programming/system-design/api/api.md",
+    "graph/programming/system-design/api/gateway.md",
     "graph/programming/system-design/commmunication-protocols/communication-protocols.md",
+    "graph/programming/system-design/api",
+    "graph/programming/internet-fundamentals/protocols/http.md",
+    "attachments/Pasted image 20231101121907.png",
+    "graph/programming/system-design/commmunication-protocols/Untitled.md",
+    "attachments/Pasted image 20231101121722.png",
+    "_tmp_1004_c3c24166b51cc1c9663352d1de880e3b",
+    "graph/programming/system-design/commmunication-protocols/websocket.md",
     "graph/programming/system-design/commmunication-protocols/soap.md",
     "attachments/Pasted image 20231101112444.png",
     "graph/programming/system-design/commmunication-protocols/graphql.md",
@@ -398,21 +407,12 @@
     "graph/programming/system-design",
     "_tmp_211_029b7d4092b73fe2ca466a070426908f",
     "graph/programming/design-patterns/creational-patterns/abstract-factory.md",
-    "_tmp_2044_73eb20d0f2441b7e944a052c2c486839",
     "attachments/Pasted image 20231030182312.png",
     "graph/programming/design-patterns/creational-patterns/builder.md",
     "graph/programming/design-patterns/creational-patterns/factory-method.md",
     "graph/programming/design-patterns/creational-patterns/prototype.md",
-    "graph/programming/design-patterns/structural-patterns/decorator.md",
-    "_tmp_1783_2fc9450ae7297db29031f44cbd41e67e",
-    "graph/programming/design-patterns/behavioral-patterns/commands.md",
-    "graph/programming/design-patterns/creational-patterns/singleton.md",
-    "graph/programming/design-patterns/structural-patterns/flyweight.md",
-    "graph/programming/design-patterns/structural-patterns/facade.md",
     "attachments/Pasted image 20231030180042.png",
     "attachments/Pasted image 20231030175621.png",
-    "attachments/Pasted image 20231030174642.png",
-    "attachments/Pasted image 20231030171941.png",
     "Untitled.canvas"
   ]
 }

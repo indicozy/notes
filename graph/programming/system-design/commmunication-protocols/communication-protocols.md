@@ -37,3 +37,4 @@ When accessing resources, we often need to load data from the database. Opening 
 
 
 ![[attachments/Pasted image 20231101112444.png]]
+
