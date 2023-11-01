@@ -193,14 +193,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graph/programming/system-design/http/history-of-http.md",
+                "file": "graph/programming/system-design/commmunication-protocols/communication-protocols.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5250e7551c321609",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "graph/programming/system-design/commmunication-protocols/communication-protocols.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3af4a13b1af92acb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "graph/programming/system-design/commmunication-protocols/communication-protocols.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -266,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph/programming/system-design/http/history-of-http.md",
+                "file": "graph/programming/system-design/commmunication-protocols/communication-protocols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph/programming/system-design/http/history-of-http.md",
+                "file": "graph/programming/system-design/commmunication-protocols/communication-protocols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "graph/programming/system-design/http/history-of-http.md"
+                "file": "graph/programming/system-design/commmunication-protocols/communication-protocols.md"
               }
             }
           },
@@ -341,16 +365,28 @@
       "random-note:Open random note": false
     }
   },
-  "active": "8ec1fb09596b0f4e",
+  "active": "3af4a13b1af92acb",
   "lastOpenFiles": [
+    "graph/programming/system-design/commmunication-protocols/websocket.md",
+    "graph/programming/system-design/commmunication-protocols/communication-protocols.md",
+    "graph/programming/system-design/commmunication-protocols/soap.md",
+    "attachments/Pasted image 20231101112444.png",
+    "graph/programming/system-design/commmunication-protocols/graphql.md",
+    "graph/programming/system-design/commmunication-protocols/trpc.md",
+    "graph/programming/system-design/commmunication-protocols/rest.md",
+    "graph/programming/system-design/http/history-of-http.md",
+    "graph/programming/internet-fundamentals/protocols/quic.md",
+    "graph/programming/internet-fundamentals/protocols/udp.md",
+    "graph/programming/internet-fundamentals/protocols/tcp.md",
+    "graph/programming/internet-fundamentals/protocols",
+    "graph/programming/internet-fundamentals/Untitled.md",
+    "graph/programming/internet-fundamentals",
+    "graph/programming/Untitled.md",
     "attachments/Pasted image 20231101111929.png",
     "graph/programming/system-design/other/hol-blocking.md",
-    "graph/programming/system-design/http/history-of-http.md",
     "graph/programming/system-design/other",
-    "graph/programming/system-design/commmunication-protocols/communication-protocols.md",
     "graph/programming/system-design/commmunication-protocols/grpc.md",
     "graph/programming/system-design/commmunication-protocols/webhook.md",
-    "graph/programming/system-design/commmunication-protocols/rest.md",
     "graph/programming/system-design/http",
     "attachments/Pasted image 20231101111517.png",
     "attachments/Pasted image 20231101111441.png",
@@ -370,25 +406,13 @@
     "graph/programming/design-patterns/structural-patterns/decorator.md",
     "_tmp_1783_2fc9450ae7297db29031f44cbd41e67e",
     "graph/programming/design-patterns/behavioral-patterns/commands.md",
-    "graph/programming/design-patterns/behavioral-patterns",
     "graph/programming/design-patterns/creational-patterns/singleton.md",
     "graph/programming/design-patterns/structural-patterns/flyweight.md",
     "graph/programming/design-patterns/structural-patterns/facade.md",
-    "graph/programming/design-patterns/structural-patterns/bridge.md",
-    "_tmp_1516_d3aab773128c518d875033bd3cb0ea3f",
-    "graph/programming/design-patterns/structural-patterns/composite.md",
-    "graph/programming/functional-programming/currying.md",
     "attachments/Pasted image 20231030180042.png",
     "attachments/Pasted image 20231030175621.png",
-    "graph/programming/multithreading/multithreading.md",
-    "graph/programming/functional-programming/side-effect.md",
-    "graph/programming/functional-programming/functional-programming.md",
-    "graph/programming/design-patterns/creational-patterns/functional-programming.md",
-    "graph/programming/design-patterns/dependency-injection.md",
     "attachments/Pasted image 20231030174642.png",
     "attachments/Pasted image 20231030171941.png",
-    "attachments/Pasted image 20231027005229.png",
-    "Pasted image 20231015163937.png",
     "Untitled.canvas"
   ]
 }

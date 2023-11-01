@@ -1,19 +1,19 @@
-- SOAP: 
+- [[graph/programming/system-design/commmunication-protocols/soap|SOAP]]: 
 Mature, comprehensive, XML-based
 Best for enterprise applications 
-- RESTful: 
+- [[graph/programming/system-design/commmunication-protocols/rest|REST]]: 
 Popular, easy-to-implement, HTTP methods 
 Ideal for web services 
-- GraphQL: 
+- [[graph/programming/system-design/commmunication-protocols/graphql|GraphQL]]: 
 Query language, request specific data 
 Reduces network overhead, faster responses 
-- gRPC: 
+- [[graph/programming/system-design/commmunication-protocols/grpc|gRPC]]: 
 Modern, high-performance, Protocol Buffers 
 Suitable for microservices architectures 
-- WebSocket: 
+- [[graph/programming/system-design/commmunication-protocols/websocket|websocket]]: 
 Real-time, bidirectional, persistent connections 
 Perfect for low-latency data exchange 
-- Webhook: 
+- [[graph/programming/system-design/commmunication-protocols/webhook|Webhook]]: 
 Event-driven, HTTP callbacks, asynchronous 
 Notifies systems when events occur
 ## How to improve performance?
@@ -32,3 +32,8 @@ The requests and responses can be compressed using gzip etc so that the transmit
 
 - Connection Pool
 When accessing resources, we often need to load data from the database. Opening the closing db connections adds significant overhead. So we should connect to the db via a pool of open connections. The connection pool is responsible for managing the connection lifecycle.
+
+## Comparison
+
+
+![[attachments/Pasted image 20231101112444.png]]
