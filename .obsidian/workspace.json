@@ -217,7 +217,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graph/programming/internet-fundamentals/osi-model.md",
+                "file": "graph/economics/ideology/Neoliberal Capitalism.md",
                 "mode": "source",
                 "source": false
               }
@@ -290,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph/programming/internet-fundamentals/osi-model.md",
+                "file": "graph/economics/ideology/Neoliberal Capitalism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph/programming/internet-fundamentals/osi-model.md",
+                "file": "graph/economics/ideology/Neoliberal Capitalism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "graph/programming/internet-fundamentals/osi-model.md"
+                "file": "graph/economics/ideology/Neoliberal Capitalism.md"
               }
             }
           },
@@ -365,11 +365,16 @@
       "random-note:Open random note": false
     }
   },
-  "active": "3af4a13b1af92acb",
+  "active": "1bf3bedeab88374c",
   "lastOpenFiles": [
+    "graph/programming/design-patterns/template-method.md",
+    "graph/programming/internet-fundamentals/osi-model.md",
+    "graph/programming/internet-fundamentals/Untitled.md",
+    "graph/programming/internet-fundamentals/Untitled 1.md",
+    "graph/programming/internet-fundamentals/Untitled 2.md",
+    "_tmp_165_248e851a04f8e2fa692518ffa9bfb76d",
     "attachments/Pasted image 20231101125902.png",
     "graph/programming/internet-fundamentals/protocols/tcp.md",
-    "graph/programming/internet-fundamentals/osi-model.md",
     "graph/programming/system-design/api/gateway.md",
     "_tmp_1515_b7855787818f3af9a1d7551cc81a23f9",
     "attachments/Pasted image 20231101123012.png",
@@ -406,13 +411,8 @@
     "graph/programming/Principles/SOLID/liskov-substitution-principle.md",
     "attachments/Pasted image 20231101111135.jpg",
     "graph/programming/system-design/commmunication-protocols",
-    "_tmp_471_42ec6f3dcc33a9b20d464e0278a2f6a0",
     "What to read.md",
     "graph/programming/design-patterns/creational-patterns/abstract-factory.md",
-    "attachments/Pasted image 20231030182312.png",
-    "graph/programming/design-patterns/creational-patterns/builder.md",
-    "graph/programming/design-patterns/creational-patterns/factory-method.md",
-    "graph/programming/design-patterns/creational-patterns/prototype.md",
     "Untitled.canvas"
   ]
 }
