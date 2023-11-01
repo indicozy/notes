@@ -241,6 +241,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "graph/programming/OOP/plain-old-java-object.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ae40e53dbec6179",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "graph/programming/OOP/data-transfer-object.md",
                 "mode": "source",
                 "source": false
@@ -248,7 +260,7 @@
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -389,10 +401,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "1b05a4be4a555a74",
+  "active": "0ae40e53dbec6179",
   "lastOpenFiles": [
-    "graph/programming/OOP/default-behaviors.md",
+    "graph/programming/OOP/plain-old-java-object.md",
     "graph/programming/OOP/data-transfer-object.md",
+    "_tmp_1743_2f6dfd5fb58550adf1854bd2b89c05e0",
+    "graph/programming/OOP/default-behaviors.md",
     "graph/programming/system-design/architecture-patterns/model.md",
     "graph/programming/system-design/architecture-patterns/mvc-mvp-mvvm-mvvm-c-viper.md",
     "graph/programming/system-design/architecture-patterns/mvvm.md",
@@ -431,12 +445,10 @@
     "graph/programming/internet-fundamentals/osi-model.md",
     "graph/programming/internet-fundamentals/Untitled 1.md",
     "graph/programming/internet-fundamentals/Untitled 2.md",
-    "_tmp_165_248e851a04f8e2fa692518ffa9bfb76d",
     "attachments/Pasted image 20231101125902.png",
     "graph/programming/system-design/api/gateway.md",
     "graph/programming/system-design/api/api.md",
     "graph/programming/system-design/commmunication-protocols/communication-protocols.md",
-    "graph/programming/internet-fundamentals/protocols/http.md",
     "Untitled.canvas"
   ]
 }

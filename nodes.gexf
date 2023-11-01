@@ -6,416 +6,422 @@
       <node id="graph/economics/banking/Islamic Banking.md" label="Islamic Banking.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="-2.8407027214206515" y="-0.027453614465726695" z="0"/>
+        <viz:position x="3.7750723636626446" y="-3.7086004958926377" z="0"/>
       </node>
       <node id="graph/economics/ideology/Marxism.md" label="Marxism.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="-1.9343900380440182" y="-4.427077474020926" z="0"/>
+        <viz:position x="-3.072745869920681" y="4.266043889453705" z="0"/>
       </node>
       <node id="graph/economics/ideology/Neoliberal Capitalism.md" label="Neoliberal Capitalism.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="1.3105295661981025" y="-3.5489874611977923" z="0"/>
+        <viz:position x="-2.384815669771345" y="2.2443045242698005" z="0"/>
       </node>
       <node id="graph/health/chemicals/Minoxidil.md" label="Minoxidil.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="-0.5532289040288152" y="4.9019988326216275" z="0"/>
+        <viz:position x="-1.8712810630907728" y="1.4333847810798694" z="0"/>
       </node>
       <node id="graph/health/chemicals/tretinoin.md" label="tretinoin.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="-4.629844996043612" y="-1.3384453499700277" z="0"/>
+        <viz:position x="-2.6883854739466417" y="0.7188118154988992" z="0"/>
       </node>
       <node id="graph/health/Apathy.md" label="Apathy.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="-1.74277063620635" y="-2.768680789706488" z="0"/>
+        <viz:position x="-4.940984655236469" y="2.326086947732257" z="0"/>
       </node>
       <node id="graph/health/boredom.md" label="boredom.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="-2.806107614516553" y="-0.5264801359703082" z="0"/>
+        <viz:position x="-4.561894306797621" y="3.4497850058653317" z="0"/>
       </node>
       <node id="graph/programming/OOP/data-transfer-object.md" label="data-transfer-object.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="3.043760691216306" y="-4.2844633141209565" z="0"/>
+        <viz:position x="-1.7171710383700245" y="-2.2942772082998575" z="0"/>
       </node>
       <node id="graph/programming/OOP/default-behaviors.md" label="default-behaviors.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="-1.7674737541164687" y="4.592474349790724" z="0"/>
+        <viz:position x="-0.7917636867670659" y="1.317024898170807" z="0"/>
+      </node>
+      <node id="graph/programming/OOP/plain-old-java-object.md" label="plain-old-java-object.md">
+        <viz:color r="255" g="255" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="4.764997009040046" y="-2.7648527852433613" z="0"/>
       </node>
       <node id="graph/programming/Principles/SOLID/dependency-inversion.md" label="dependency-inversion.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="3.669354295102142" y="1.0165449346883504" z="0"/>
+        <viz:position x="-1.4026014654489005" y="-4.288426083061867" z="0"/>
       </node>
       <node id="graph/programming/Principles/SOLID/interface-segregation-principle.md" label="interface-segregation-principle.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="0.8571062334613" y="3.3237705886410147" z="0"/>
+        <viz:position x="1.0053096321091033" y="1.5623714609744592" z="0"/>
       </node>
       <node id="graph/programming/Principles/SOLID/liskov-substitution-principle.md" label="liskov-substitution-principle.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="2.28414533017653" y="2.819311205592112" z="0"/>
+        <viz:position x="4.9943420365475415" y="-4.866580537935814" z="0"/>
       </node>
       <node id="graph/programming/Principles/SOLID/open-closed-principle.md" label="open-closed-principle.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="-0.9420513095408349" y="2.5343614033755735" z="0"/>
+        <viz:position x="4.9487042525857845" y="-1.12399742480084" z="0"/>
       </node>
       <node id="graph/programming/Principles/SOLID/single-responsibility-principle.md" label="single-responsibility-principle.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="-0.1654853078031966" y="-4.529323916966952" z="0"/>
+        <viz:position x="-1.1639475838879276" y="-1.6302510011556892" z="0"/>
       </node>
       <node id="graph/programming/Principles/Event Sourcing.md" label="Event Sourcing.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="2.617377884723904" y="-2.9919970202466373" z="0"/>
+        <viz:position x="2.2857779960763747" y="1.5943387341247783" z="0"/>
       </node>
       <node id="graph/programming/Principles/event-driven-architecture.md" label="event-driven-architecture.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="-3.2272352416635597" y="1.0635417943615444" z="0"/>
+        <viz:position x="4.32303784880385" y="3.733098031566815" z="0"/>
       </node>
       <node id="graph/programming/Principles/message-driven-architecture.md" label="message-driven-architecture.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="3.6058049373356056" y="0.5503663857920849" z="0"/>
+        <viz:position x="2.2986478166829327" y="-1.5500280396214228" z="0"/>
       </node>
       <node id="graph/programming/design-patterns/behavioral-patterns/commands.md" label="commands.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="-4.630792908530241" y="4.4040292122234685" z="0"/>
+        <viz:position x="-4.476586655080448" y="-3.7382275356039107" z="0"/>
       </node>
       <node id="graph/programming/design-patterns/creational-patterns/abstract-factory.md" label="abstract-factory.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="-0.5044823379975893" y="-2.5221875460332455" z="0"/>
+        <viz:position x="1.0767492220401742" y="1.9446909897183922" z="0"/>
       </node>
       <node id="graph/programming/design-patterns/creational-patterns/builder.md" label="builder.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="1.9070339047639795" y="3.1946806538252144" z="0"/>
+        <viz:position x="3.707771248646562" y="-2.6468165818663913" z="0"/>
       </node>
       <node id="graph/programming/design-patterns/creational-patterns/factory-method.md" label="factory-method.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="0.5611085112502767" y="4.523647634122042" z="0"/>
+        <viz:position x="-4.6511400760057615" y="0.7321138979473796" z="0"/>
       </node>
       <node id="graph/programming/design-patterns/creational-patterns/prototype.md" label="prototype.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="-4.794301423985097" y="0.42825160775123994" z="0"/>
+        <viz:position x="0.5807174209296111" y="-2.654635755267578" z="0"/>
       </node>
       <node id="graph/programming/design-patterns/creational-patterns/singleton.md" label="singleton.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="-4.8590117126654135" y="-2.8488674830350535" z="0"/>
+        <viz:position x="1.1065342208314144" y="3.2847338370601857" z="0"/>
       </node>
       <node id="graph/programming/design-patterns/structural-patterns/bridge.md" label="bridge.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="-1.3871688723289588" y="-2.361875582034376" z="0"/>
+        <viz:position x="2.5577336980385956" y="-2.3952611174370153" z="0"/>
       </node>
       <node id="graph/programming/design-patterns/structural-patterns/composite.md" label="composite.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="2.664592097328214" y="-0.7269371540280751" z="0"/>
+        <viz:position x="3.3753434835819647" y="-4.512749199062016" z="0"/>
       </node>
       <node id="graph/programming/design-patterns/structural-patterns/decorator.md" label="decorator.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="-3.690268356249664" y="0.34255476727290013" z="0"/>
+        <viz:position x="1.0171309117897964" y="-1.0944879541873398" z="0"/>
       </node>
       <node id="graph/programming/design-patterns/structural-patterns/facade.md" label="facade.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="3.7890819099986945" y="-4.959609020509741" z="0"/>
+        <viz:position x="-1.439110474417562" y="4.596041205714789" z="0"/>
       </node>
       <node id="graph/programming/design-patterns/structural-patterns/flyweight.md" label="flyweight.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="4.0045941180942375" y="1.0563164787693218" z="0"/>
+        <viz:position x="-3.4409385481358834" y="1.7912012320325736" z="0"/>
       </node>
       <node id="graph/programming/design-patterns/dependency-injection.md" label="dependency-injection.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="2.894601484661015" y="4.890551176544907" z="0"/>
+        <viz:position x="-4.0776805722139375" y="3.3977559768622516" z="0"/>
       </node>
       <node id="graph/programming/design-patterns/iterator.md" label="iterator.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="-3.7718897065867374" y="-4.038682296623232" z="0"/>
+        <viz:position x="-2.1809488101732066" y="3.1760457885616518" z="0"/>
       </node>
       <node id="graph/programming/design-patterns/template-method.md" label="template-method.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="-2.291493105096327" y="-2.7719397621045694" z="0"/>
+        <viz:position x="2.658517795697981" y="4.5028303844061295" z="0"/>
       </node>
       <node id="graph/programming/functional-programming/currying.md" label="currying.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="1.037484290151811" y="2.656149121350362" z="0"/>
+        <viz:position x="-3.1723200086961723" y="3.806453035172927" z="0"/>
       </node>
       <node id="graph/programming/functional-programming/functional-programming.md" label="functional-programming.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="0.0518713525487291" y="0.190604656484334" z="0"/>
+        <viz:position x="0.27785811872527866" y="3.4084876681469183" z="0"/>
       </node>
       <node id="graph/programming/functional-programming/side-effect.md" label="side-effect.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="-0.5804187590732006" y="-3.2191409528152692" z="0"/>
+        <viz:position x="1.7043161205295192" y="2.6748463166833663" z="0"/>
       </node>
       <node id="graph/programming/internet-fundamentals/protocols/http.md" label="http.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="-3.265772532497244" y="2.294462599358753" z="0"/>
+        <viz:position x="0.9263348226952424" y="-2.9073472024665015" z="0"/>
       </node>
       <node id="graph/programming/internet-fundamentals/protocols/quic.md" label="quic.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="-3.950036111185413" y="-0.694370500769292" z="0"/>
+        <viz:position x="2.639769770741287" y="2.913668437811996" z="0"/>
       </node>
       <node id="graph/programming/internet-fundamentals/protocols/tcp.md" label="tcp.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="1.215450669514917" y="-4.07413613707766" z="0"/>
+        <viz:position x="2.9498490807759143" y="-2.90317153210913" z="0"/>
       </node>
       <node id="graph/programming/internet-fundamentals/protocols/udp.md" label="udp.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="-0.4499459414124596" y="2.639500649430355" z="0"/>
+        <viz:position x="-4.61412314424755" y="1.6015000115054452" z="0"/>
       </node>
       <node id="graph/programming/internet-fundamentals/osi-model.md" label="osi-model.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="0.3822508367060351" y="-4.264503305036662" z="0"/>
+        <viz:position x="-2.427961971711907" y="0.9547346147708797" z="0"/>
       </node>
       <node id="graph/programming/internet-fundamentals/url.md" label="url.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="-0.3103233730650956" y="3.415647436242571" z="0"/>
+        <viz:position x="1.4610820860227953" y="-4.667221058274236" z="0"/>
       </node>
       <node id="graph/programming/multithreading/multithreading.md" label="multithreading.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="1.4082944926436713" y="-4.401412624002887" z="0"/>
+        <viz:position x="-3.305719463454906" y="1.589103394454523" z="0"/>
       </node>
       <node id="graph/programming/system-design/api/api.md" label="api.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="1.441813780525603" y="3.4159380047834915" z="0"/>
+        <viz:position x="1.537478140921813" y="4.311072685219505" z="0"/>
       </node>
       <node id="graph/programming/system-design/api/gateway.md" label="gateway.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="-0.41185614217688293" y="1.6620314518962669" z="0"/>
+        <viz:position x="-3.310141105839368" y="0.3833619356674305" z="0"/>
       </node>
       <node id="graph/programming/system-design/architecture-patterns/MVC.md" label="MVC.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="1.7682569601409988" y="2.2698256272221506" z="0"/>
+        <viz:position x="3.870960779207003" y="4.451435335140875" z="0"/>
       </node>
       <node id="graph/programming/system-design/architecture-patterns/model.md" label="model.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="-3.273430785980025" y="-3.2087436506868006" z="0"/>
+        <viz:position x="2.3216422345151706" y="-2.6840681497851993" z="0"/>
       </node>
       <node id="graph/programming/system-design/architecture-patterns/mvc-mvp-mvvm-mvvm-c-viper.md" label="mvc-mvp-mvvm-mvvm-c-viper.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="-0.9425599583706523" y="-1.9066679235100525" z="0"/>
+        <viz:position x="3.6195127505603644" y="0.9785407731740303" z="0"/>
       </node>
       <node id="graph/programming/system-design/architecture-patterns/mvp.md" label="mvp.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="0.29178581940044346" y="-3.1439794236996055" z="0"/>
+        <viz:position x="-1.5262745447141035" y="0.8714405805026022" z="0"/>
       </node>
       <node id="graph/programming/system-design/architecture-patterns/mvvm.md" label="mvvm.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="-1.162715206011069" y="-3.539756048150602" z="0"/>
+        <viz:position x="-2.622984710758658" y="-3.068243731273468" z="0"/>
       </node>
       <node id="graph/programming/system-design/ci-cd/ci-cd.md" label="ci-cd.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="-0.3557334014962166" y="1.178191665899031" z="0"/>
+        <viz:position x="2.1151932867328664" y="1.3769926321007748" z="0"/>
       </node>
       <node id="graph/programming/system-design/ci-cd/end-to-end-tests.md" label="end-to-end-tests.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="-0.2590077297069655" y="4.398844353486538" z="0"/>
+        <viz:position x="-4.998274941805823" y="-2.1419573836980943" z="0"/>
       </node>
       <node id="graph/programming/system-design/commmunication-protocols/Untitled.md" label="Untitled.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="2.6572827145779794" y="-3.4665833978945026" z="0"/>
+        <viz:position x="3.7229163499361775" y="4.127410053294582" z="0"/>
       </node>
       <node id="graph/programming/system-design/commmunication-protocols/communication-protocols.md" label="communication-protocols.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="-4.054172060254979" y="1.418818957858246" z="0"/>
+        <viz:position x="2.783385448398084" y="-4.787995612620788" z="0"/>
       </node>
       <node id="graph/programming/system-design/commmunication-protocols/graphql.md" label="graphql.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="0.0575795635410703" y="2.163810219202052" z="0"/>
+        <viz:position x="-4.458602890660101" y="1.4650472122625597" z="0"/>
       </node>
       <node id="graph/programming/system-design/commmunication-protocols/grpc.md" label="grpc.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="-0.44104187442990117" y="-3.9241125045435954" z="0"/>
+        <viz:position x="-3.2970791879532335" y="3.805270713990687" z="0"/>
       </node>
       <node id="graph/programming/system-design/commmunication-protocols/rest.md" label="rest.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="3.4464594303785923" y="-3.2820142419446885" z="0"/>
+        <viz:position x="-3.265639661907236" y="-0.7279543563830622" z="0"/>
       </node>
       <node id="graph/programming/system-design/commmunication-protocols/soap.md" label="soap.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="1.0377912657252963" y="1.7186917112212274" z="0"/>
+        <viz:position x="1.0999344153183932" y="3.927579028503507" z="0"/>
       </node>
       <node id="graph/programming/system-design/commmunication-protocols/trpc.md" label="trpc.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="2.3790211115901183" y="4.134092325359507" z="0"/>
+        <viz:position x="3.136354279287918" y="0.9584947502330321" z="0"/>
       </node>
       <node id="graph/programming/system-design/commmunication-protocols/webhook.md" label="webhook.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="-2.600527515768607" y="2.3885350377153465" z="0"/>
+        <viz:position x="1.4392172363994549" y="-0.1794251463142853" z="0"/>
       </node>
       <node id="graph/programming/system-design/commmunication-protocols/websocket.md" label="websocket.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="-4.911692729031854" y="4.236348062189617" z="0"/>
+        <viz:position x="1.555265748773591" y="4.031795540615837" z="0"/>
       </node>
       <node id="graph/programming/system-design/http/history-of-http.md" label="history-of-http.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="-2.5616886450337173" y="4.510327733267463" z="0"/>
+        <viz:position x="4.1478832568442385" y="2.101215984800353" z="0"/>
       </node>
       <node id="graph/programming/system-design/other/hol-blocking.md" label="hol-blocking.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="4.681241786089396" y="-4.622696577413432" z="0"/>
+        <viz:position x="1.2824776731151548" y="-3.4544011065322766" z="0"/>
       </node>
       <node id="graph/programming/system-design/proxy/apache.md" label="apache.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="-2.9405412804502484" y="-4.28370847941022" z="0"/>
+        <viz:position x="-4.130638162517619" y="2.4939639029644267" z="0"/>
       </node>
       <node id="graph/programming/system-design/proxy/load-balancing.md" label="load-balancing.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="-3.7047147388821" y="4.760910024042595" z="0"/>
+        <viz:position x="-0.7776847223059269" y="-1.4765780699169917" z="0"/>
       </node>
       <node id="graph/programming/system-design/proxy/nginx.md" label="nginx.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="-2.6700760264635903" y="-1.6950278409163166" z="0"/>
+        <viz:position x="-0.3599092321187598" y="4.74591831452204" z="0"/>
       </node>
       <node id="graph/programming/system-design/proxy/reverse-proxy.md" label="reverse-proxy.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="1.7756506907384217" y="-1.8432203994659968" z="0"/>
+        <viz:position x="-2.651489136462597" y="-2.441515307314044" z="0"/>
       </node>
       <node id="resources/Can't hurt me (David Goggins).md" label="Can't hurt me (David Goggins).md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="-1.5676132846669155" y="1.4704282705976945" z="0"/>
+        <viz:position x="-4.9370199582158" y="2.536064982697077" z="0"/>
       </node>
       <node id="resources/Design Patterns - Element of Reusable Object-Oriented Software.md" label="Design Patterns - Element of Reusable Object-Oriented Software.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="1.1962967219473235" y="-1.9889516100786286" z="0"/>
+        <viz:position x="1.2904958449122494" y="-0.10699735649217779" z="0"/>
       </node>
       <node id="resources/On the Function of Boredom.md" label="On the Function of Boredom.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="-0.9092107645809815" y="-3.088730474665804" z="0"/>
+        <viz:position x="-4.1041483979495785" y="-1.2708625716420796" z="0"/>
       </node>
       <node id="resources/Отрасти бороду ДАЖЕ ЕСЛИ у тебя лицо подростка..md" label="Отрасти бороду ДАЖЕ ЕСЛИ у тебя лицо подростка..md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="-0.9638461515773855" y="0.09885648834954175" z="0"/>
+        <viz:position x="4.92251839307473" y="-3.3148329969702273" z="0"/>
       </node>
       <node id="What to read.md" label="What to read.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="4.7822536515016" y="-0.2235591286812273" z="0"/>
+        <viz:position x="-4.59642306226063" y="2.377832670031605" z="0"/>
       </node>
       <node id="test.md" label="test.md">
         <viz:color r="255" g="255" b="255"/>
         <viz:size value="10"/>
-        <viz:position x="4.65605910452118" y="2.1135523702143715" z="0"/>
+        <viz:position x="-2.2280646092667644" y="-3.3590402446277445" z="0"/>
       </node>
     </nodes>
     <edges>
-      <edge id="geid_117_0" source="graph/economics/banking/Islamic Banking.md" target="graph/economics/ideology/Marxism.md"/>
-      <edge id="geid_117_1" source="graph/economics/banking/Islamic Banking.md" target="graph/economics/ideology/Neoliberal Capitalism.md"/>
-      <edge id="geid_117_2" source="graph/health/chemicals/Minoxidil.md" target="graph/health/chemicals/tretinoin.md"/>
-      <edge id="geid_117_3" source="graph/health/chemicals/Minoxidil.md" target="resources/Отрасти бороду ДАЖЕ ЕСЛИ у тебя лицо подростка..md"/>
-      <edge id="geid_117_4" source="graph/health/chemicals/tretinoin.md" target="resources/Отрасти бороду ДАЖЕ ЕСЛИ у тебя лицо подростка..md"/>
-      <edge id="geid_117_5" source="graph/health/Apathy.md" target="resources/On the Function of Boredom.md"/>
-      <edge id="geid_117_6" source="graph/health/boredom.md" target="resources/On the Function of Boredom.md"/>
-      <edge id="geid_117_7" source="graph/health/boredom.md" target="graph/health/Apathy.md"/>
-      <edge id="geid_117_8" source="graph/programming/Principles/message-driven-architecture.md" target="graph/programming/Principles/event-driven-architecture.md"/>
-      <edge id="geid_117_9" source="graph/programming/design-patterns/creational-patterns/abstract-factory.md" target="graph/programming/design-patterns/creational-patterns/factory-method.md"/>
-      <edge id="geid_117_10" source="graph/programming/design-patterns/creational-patterns/abstract-factory.md" target="graph/programming/design-patterns/creational-patterns/builder.md"/>
-      <edge id="geid_117_11" source="graph/programming/design-patterns/creational-patterns/abstract-factory.md" target="graph/programming/design-patterns/structural-patterns/facade.md"/>
-      <edge id="geid_117_12" source="graph/programming/design-patterns/creational-patterns/abstract-factory.md" target="graph/programming/design-patterns/structural-patterns/bridge.md"/>
-      <edge id="geid_117_13" source="graph/programming/design-patterns/creational-patterns/abstract-factory.md" target="graph/programming/design-patterns/creational-patterns/singleton.md"/>
-      <edge id="geid_117_14" source="graph/programming/design-patterns/creational-patterns/builder.md" target="graph/programming/functional-programming/currying.md"/>
-      <edge id="geid_117_15" source="graph/programming/design-patterns/creational-patterns/builder.md" target="graph/programming/functional-programming/functional-programming.md"/>
-      <edge id="geid_117_16" source="graph/programming/design-patterns/creational-patterns/builder.md" target="graph/programming/design-patterns/structural-patterns/composite.md"/>
-      <edge id="geid_117_17" source="graph/programming/design-patterns/creational-patterns/builder.md" target="graph/programming/design-patterns/creational-patterns/factory-method.md"/>
-      <edge id="geid_117_18" source="graph/programming/design-patterns/creational-patterns/builder.md" target="graph/programming/design-patterns/structural-patterns/bridge.md"/>
-      <edge id="geid_117_19" source="graph/programming/design-patterns/creational-patterns/builder.md" target="graph/programming/design-patterns/creational-patterns/abstract-factory.md"/>
-      <edge id="geid_117_20" source="graph/programming/design-patterns/creational-patterns/factory-method.md" target="graph/programming/OOP/default-behaviors.md"/>
-      <edge id="geid_117_21" source="graph/programming/design-patterns/creational-patterns/factory-method.md" target="graph/programming/design-patterns/creational-patterns/abstract-factory.md"/>
-      <edge id="geid_117_22" source="graph/programming/design-patterns/creational-patterns/factory-method.md" target="graph/programming/design-patterns/creational-patterns/prototype.md"/>
-      <edge id="geid_117_23" source="graph/programming/design-patterns/creational-patterns/factory-method.md" target="graph/programming/design-patterns/creational-patterns/builder.md"/>
-      <edge id="geid_117_24" source="graph/programming/design-patterns/creational-patterns/factory-method.md" target="graph/programming/design-patterns/iterator.md"/>
-      <edge id="geid_117_25" source="graph/programming/design-patterns/creational-patterns/factory-method.md" target="graph/programming/design-patterns/template-method.md"/>
-      <edge id="geid_117_26" source="graph/programming/design-patterns/creational-patterns/prototype.md" target="graph/programming/design-patterns/creational-patterns/factory-method.md"/>
-      <edge id="geid_117_27" source="graph/programming/design-patterns/creational-patterns/prototype.md" target="graph/programming/design-patterns/creational-patterns/prototype.md"/>
-      <edge id="geid_117_28" source="graph/programming/design-patterns/creational-patterns/prototype.md" target="graph/programming/design-patterns/behavioral-patterns/commands.md"/>
-      <edge id="geid_117_29" source="graph/programming/design-patterns/creational-patterns/prototype.md" target="graph/programming/design-patterns/structural-patterns/composite.md"/>
-      <edge id="geid_117_30" source="graph/programming/design-patterns/creational-patterns/prototype.md" target="graph/programming/design-patterns/structural-patterns/decorator.md"/>
-      <edge id="geid_117_31" source="graph/programming/design-patterns/creational-patterns/prototype.md" target="graph/programming/design-patterns/creational-patterns/singleton.md"/>
-      <edge id="geid_117_32" source="graph/programming/design-patterns/creational-patterns/singleton.md" target="graph/programming/design-patterns/dependency-injection.md"/>
-      <edge id="geid_117_33" source="graph/programming/design-patterns/creational-patterns/singleton.md" target="graph/programming/functional-programming/functional-programming.md"/>
-      <edge id="geid_117_34" source="graph/programming/design-patterns/creational-patterns/singleton.md" target="graph/programming/functional-programming/side-effect.md"/>
-      <edge id="geid_117_35" source="graph/programming/design-patterns/creational-patterns/singleton.md" target="graph/programming/Principles/SOLID/single-responsibility-principle.md"/>
-      <edge id="geid_117_36" source="graph/programming/design-patterns/creational-patterns/singleton.md" target="graph/programming/multithreading/multithreading.md"/>
-      <edge id="geid_117_37" source="graph/programming/design-patterns/creational-patterns/singleton.md" target="graph/programming/design-patterns/structural-patterns/facade.md"/>
-      <edge id="geid_117_38" source="graph/programming/design-patterns/creational-patterns/singleton.md" target="graph/programming/design-patterns/structural-patterns/flyweight.md"/>
-      <edge id="geid_117_39" source="graph/programming/design-patterns/creational-patterns/singleton.md" target="graph/programming/design-patterns/creational-patterns/abstract-factory.md"/>
-      <edge id="geid_117_40" source="graph/programming/design-patterns/creational-patterns/singleton.md" target="graph/programming/design-patterns/creational-patterns/builder.md"/>
-      <edge id="geid_117_41" source="graph/programming/design-patterns/creational-patterns/singleton.md" target="graph/programming/design-patterns/creational-patterns/prototype.md"/>
-      <edge id="geid_117_42" source="graph/programming/system-design/api/api.md" target="graph/programming/system-design/commmunication-protocols/communication-protocols.md"/>
-      <edge id="geid_117_43" source="graph/programming/system-design/api/api.md" target="graph/programming/system-design/api/gateway.md"/>
-      <edge id="geid_117_44" source="graph/programming/system-design/ci-cd/ci-cd.md" target="graph/programming/system-design/ci-cd/end-to-end-tests.md"/>
-      <edge id="geid_117_45" source="graph/programming/system-design/commmunication-protocols/communication-protocols.md" target="graph/programming/system-design/commmunication-protocols/soap.md"/>
-      <edge id="geid_117_46" source="graph/programming/system-design/commmunication-protocols/communication-protocols.md" target="graph/programming/system-design/commmunication-protocols/rest.md"/>
-      <edge id="geid_117_47" source="graph/programming/system-design/commmunication-protocols/communication-protocols.md" target="graph/programming/system-design/commmunication-protocols/graphql.md"/>
-      <edge id="geid_117_48" source="graph/programming/system-design/commmunication-protocols/communication-protocols.md" target="graph/programming/system-design/commmunication-protocols/grpc.md"/>
-      <edge id="geid_117_49" source="graph/programming/system-design/commmunication-protocols/communication-protocols.md" target="graph/programming/system-design/commmunication-protocols/websocket.md"/>
-      <edge id="geid_117_50" source="graph/programming/system-design/commmunication-protocols/communication-protocols.md" target="graph/programming/system-design/commmunication-protocols/webhook.md"/>
-      <edge id="geid_117_51" source="graph/programming/system-design/commmunication-protocols/graphql.md" target="graph/programming/system-design/commmunication-protocols/trpc.md"/>
-      <edge id="geid_117_52" source="graph/programming/system-design/http/history-of-http.md" target="graph/programming/internet-fundamentals/protocols/tcp.md"/>
-      <edge id="geid_117_53" source="graph/programming/system-design/http/history-of-http.md" target="graph/programming/system-design/other/hol-blocking.md"/>
-      <edge id="geid_117_54" source="graph/programming/system-design/http/history-of-http.md" target="graph/programming/internet-fundamentals/protocols/quic.md"/>
-      <edge id="geid_117_55" source="graph/programming/system-design/proxy/nginx.md" target="graph/programming/system-design/proxy/reverse-proxy.md"/>
+      <edge id="geid_170_0" source="graph/economics/banking/Islamic Banking.md" target="graph/economics/ideology/Marxism.md"/>
+      <edge id="geid_170_1" source="graph/economics/banking/Islamic Banking.md" target="graph/economics/ideology/Neoliberal Capitalism.md"/>
+      <edge id="geid_170_2" source="graph/health/chemicals/Minoxidil.md" target="graph/health/chemicals/tretinoin.md"/>
+      <edge id="geid_170_3" source="graph/health/chemicals/Minoxidil.md" target="resources/Отрасти бороду ДАЖЕ ЕСЛИ у тебя лицо подростка..md"/>
+      <edge id="geid_170_4" source="graph/health/chemicals/tretinoin.md" target="resources/Отрасти бороду ДАЖЕ ЕСЛИ у тебя лицо подростка..md"/>
+      <edge id="geid_170_5" source="graph/health/Apathy.md" target="resources/On the Function of Boredom.md"/>
+      <edge id="geid_170_6" source="graph/health/boredom.md" target="resources/On the Function of Boredom.md"/>
+      <edge id="geid_170_7" source="graph/health/boredom.md" target="graph/health/Apathy.md"/>
+      <edge id="geid_170_8" source="graph/programming/OOP/plain-old-java-object.md" target="graph/programming/OOP/data-transfer-object.md"/>
+      <edge id="geid_170_9" source="graph/programming/Principles/message-driven-architecture.md" target="graph/programming/Principles/event-driven-architecture.md"/>
+      <edge id="geid_170_10" source="graph/programming/design-patterns/creational-patterns/abstract-factory.md" target="graph/programming/design-patterns/creational-patterns/factory-method.md"/>
+      <edge id="geid_170_11" source="graph/programming/design-patterns/creational-patterns/abstract-factory.md" target="graph/programming/design-patterns/creational-patterns/builder.md"/>
+      <edge id="geid_170_12" source="graph/programming/design-patterns/creational-patterns/abstract-factory.md" target="graph/programming/design-patterns/structural-patterns/facade.md"/>
+      <edge id="geid_170_13" source="graph/programming/design-patterns/creational-patterns/abstract-factory.md" target="graph/programming/design-patterns/structural-patterns/bridge.md"/>
+      <edge id="geid_170_14" source="graph/programming/design-patterns/creational-patterns/abstract-factory.md" target="graph/programming/design-patterns/creational-patterns/singleton.md"/>
+      <edge id="geid_170_15" source="graph/programming/design-patterns/creational-patterns/builder.md" target="graph/programming/functional-programming/currying.md"/>
+      <edge id="geid_170_16" source="graph/programming/design-patterns/creational-patterns/builder.md" target="graph/programming/functional-programming/functional-programming.md"/>
+      <edge id="geid_170_17" source="graph/programming/design-patterns/creational-patterns/builder.md" target="graph/programming/design-patterns/structural-patterns/composite.md"/>
+      <edge id="geid_170_18" source="graph/programming/design-patterns/creational-patterns/builder.md" target="graph/programming/design-patterns/creational-patterns/factory-method.md"/>
+      <edge id="geid_170_19" source="graph/programming/design-patterns/creational-patterns/builder.md" target="graph/programming/design-patterns/structural-patterns/bridge.md"/>
+      <edge id="geid_170_20" source="graph/programming/design-patterns/creational-patterns/builder.md" target="graph/programming/design-patterns/creational-patterns/abstract-factory.md"/>
+      <edge id="geid_170_21" source="graph/programming/design-patterns/creational-patterns/factory-method.md" target="graph/programming/OOP/default-behaviors.md"/>
+      <edge id="geid_170_22" source="graph/programming/design-patterns/creational-patterns/factory-method.md" target="graph/programming/design-patterns/creational-patterns/abstract-factory.md"/>
+      <edge id="geid_170_23" source="graph/programming/design-patterns/creational-patterns/factory-method.md" target="graph/programming/design-patterns/creational-patterns/prototype.md"/>
+      <edge id="geid_170_24" source="graph/programming/design-patterns/creational-patterns/factory-method.md" target="graph/programming/design-patterns/creational-patterns/builder.md"/>
+      <edge id="geid_170_25" source="graph/programming/design-patterns/creational-patterns/factory-method.md" target="graph/programming/design-patterns/iterator.md"/>
+      <edge id="geid_170_26" source="graph/programming/design-patterns/creational-patterns/factory-method.md" target="graph/programming/design-patterns/template-method.md"/>
+      <edge id="geid_170_27" source="graph/programming/design-patterns/creational-patterns/prototype.md" target="graph/programming/design-patterns/creational-patterns/factory-method.md"/>
+      <edge id="geid_170_28" source="graph/programming/design-patterns/creational-patterns/prototype.md" target="graph/programming/design-patterns/creational-patterns/prototype.md"/>
+      <edge id="geid_170_29" source="graph/programming/design-patterns/creational-patterns/prototype.md" target="graph/programming/design-patterns/behavioral-patterns/commands.md"/>
+      <edge id="geid_170_30" source="graph/programming/design-patterns/creational-patterns/prototype.md" target="graph/programming/design-patterns/structural-patterns/composite.md"/>
+      <edge id="geid_170_31" source="graph/programming/design-patterns/creational-patterns/prototype.md" target="graph/programming/design-patterns/structural-patterns/decorator.md"/>
+      <edge id="geid_170_32" source="graph/programming/design-patterns/creational-patterns/prototype.md" target="graph/programming/design-patterns/creational-patterns/singleton.md"/>
+      <edge id="geid_170_33" source="graph/programming/design-patterns/creational-patterns/singleton.md" target="graph/programming/design-patterns/dependency-injection.md"/>
+      <edge id="geid_170_34" source="graph/programming/design-patterns/creational-patterns/singleton.md" target="graph/programming/functional-programming/functional-programming.md"/>
+      <edge id="geid_170_35" source="graph/programming/design-patterns/creational-patterns/singleton.md" target="graph/programming/functional-programming/side-effect.md"/>
+      <edge id="geid_170_36" source="graph/programming/design-patterns/creational-patterns/singleton.md" target="graph/programming/Principles/SOLID/single-responsibility-principle.md"/>
+      <edge id="geid_170_37" source="graph/programming/design-patterns/creational-patterns/singleton.md" target="graph/programming/multithreading/multithreading.md"/>
+      <edge id="geid_170_38" source="graph/programming/design-patterns/creational-patterns/singleton.md" target="graph/programming/design-patterns/structural-patterns/facade.md"/>
+      <edge id="geid_170_39" source="graph/programming/design-patterns/creational-patterns/singleton.md" target="graph/programming/design-patterns/structural-patterns/flyweight.md"/>
+      <edge id="geid_170_40" source="graph/programming/design-patterns/creational-patterns/singleton.md" target="graph/programming/design-patterns/creational-patterns/abstract-factory.md"/>
+      <edge id="geid_170_41" source="graph/programming/design-patterns/creational-patterns/singleton.md" target="graph/programming/design-patterns/creational-patterns/builder.md"/>
+      <edge id="geid_170_42" source="graph/programming/design-patterns/creational-patterns/singleton.md" target="graph/programming/design-patterns/creational-patterns/prototype.md"/>
+      <edge id="geid_170_43" source="graph/programming/system-design/api/api.md" target="graph/programming/system-design/commmunication-protocols/communication-protocols.md"/>
+      <edge id="geid_170_44" source="graph/programming/system-design/api/api.md" target="graph/programming/system-design/api/gateway.md"/>
+      <edge id="geid_170_45" source="graph/programming/system-design/ci-cd/ci-cd.md" target="graph/programming/system-design/ci-cd/end-to-end-tests.md"/>
+      <edge id="geid_170_46" source="graph/programming/system-design/commmunication-protocols/communication-protocols.md" target="graph/programming/system-design/commmunication-protocols/soap.md"/>
+      <edge id="geid_170_47" source="graph/programming/system-design/commmunication-protocols/communication-protocols.md" target="graph/programming/system-design/commmunication-protocols/rest.md"/>
+      <edge id="geid_170_48" source="graph/programming/system-design/commmunication-protocols/communication-protocols.md" target="graph/programming/system-design/commmunication-protocols/graphql.md"/>
+      <edge id="geid_170_49" source="graph/programming/system-design/commmunication-protocols/communication-protocols.md" target="graph/programming/system-design/commmunication-protocols/grpc.md"/>
+      <edge id="geid_170_50" source="graph/programming/system-design/commmunication-protocols/communication-protocols.md" target="graph/programming/system-design/commmunication-protocols/websocket.md"/>
+      <edge id="geid_170_51" source="graph/programming/system-design/commmunication-protocols/communication-protocols.md" target="graph/programming/system-design/commmunication-protocols/webhook.md"/>
+      <edge id="geid_170_52" source="graph/programming/system-design/commmunication-protocols/graphql.md" target="graph/programming/system-design/commmunication-protocols/trpc.md"/>
+      <edge id="geid_170_53" source="graph/programming/system-design/http/history-of-http.md" target="graph/programming/internet-fundamentals/protocols/tcp.md"/>
+      <edge id="geid_170_54" source="graph/programming/system-design/http/history-of-http.md" target="graph/programming/system-design/other/hol-blocking.md"/>
+      <edge id="geid_170_55" source="graph/programming/system-design/http/history-of-http.md" target="graph/programming/internet-fundamentals/protocols/quic.md"/>
+      <edge id="geid_170_56" source="graph/programming/system-design/proxy/nginx.md" target="graph/programming/system-design/proxy/reverse-proxy.md"/>
     </edges>
   </graph>
 </gexf>
