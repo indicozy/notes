@@ -217,7 +217,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graph/programming/system-design/api/gateway.md",
+                "file": "graph/programming/internet-fundamentals/osi-model.md",
                 "mode": "source",
                 "source": false
               }
@@ -290,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph/programming/system-design/api/gateway.md",
+                "file": "graph/programming/internet-fundamentals/osi-model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph/programming/system-design/api/gateway.md",
+                "file": "graph/programming/internet-fundamentals/osi-model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "graph/programming/system-design/api/gateway.md"
+                "file": "graph/programming/internet-fundamentals/osi-model.md"
               }
             }
           },
@@ -367,11 +367,15 @@
   },
   "active": "3af4a13b1af92acb",
   "lastOpenFiles": [
+    "attachments/Pasted image 20231101125902.png",
+    "graph/programming/internet-fundamentals/protocols/tcp.md",
+    "graph/programming/internet-fundamentals/osi-model.md",
+    "graph/programming/system-design/api/gateway.md",
+    "_tmp_1515_b7855787818f3af9a1d7551cc81a23f9",
     "attachments/Pasted image 20231101123012.png",
     "_tmp_1260_14cb3db2b9ffeb9e9011091895def9bf",
     "attachments/Pasted image 20231101122202.png",
     "graph/programming/system-design/api/api.md",
-    "graph/programming/system-design/api/gateway.md",
     "graph/programming/system-design/commmunication-protocols/communication-protocols.md",
     "graph/programming/system-design/api",
     "graph/programming/internet-fundamentals/protocols/http.md",
@@ -388,9 +392,7 @@
     "graph/programming/system-design/http/history-of-http.md",
     "graph/programming/internet-fundamentals/protocols/quic.md",
     "graph/programming/internet-fundamentals/protocols/udp.md",
-    "graph/programming/internet-fundamentals/protocols/tcp.md",
     "graph/programming/internet-fundamentals/protocols",
-    "graph/programming/internet-fundamentals/Untitled.md",
     "graph/programming/internet-fundamentals",
     "graph/programming/Untitled.md",
     "attachments/Pasted image 20231101111929.png",
@@ -406,13 +408,11 @@
     "graph/programming/system-design/commmunication-protocols",
     "_tmp_471_42ec6f3dcc33a9b20d464e0278a2f6a0",
     "What to read.md",
-    "graph/programming/system-design",
     "graph/programming/design-patterns/creational-patterns/abstract-factory.md",
     "attachments/Pasted image 20231030182312.png",
     "graph/programming/design-patterns/creational-patterns/builder.md",
     "graph/programming/design-patterns/creational-patterns/factory-method.md",
     "graph/programming/design-patterns/creational-patterns/prototype.md",
-    "attachments/Pasted image 20231030180042.png",
     "Untitled.canvas"
   ]
 }
