@@ -241,7 +241,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graph/programming/system-design/architecture-patterns/mvc-mvp-mvvm-mvvm-c-viper.md",
+                "file": "graph/programming/OOP/data-transfer-object.md",
                 "mode": "source",
                 "source": false
               }
@@ -314,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph/programming/system-design/architecture-patterns/mvc-mvp-mvvm-mvvm-c-viper.md",
+                "file": "graph/programming/OOP/data-transfer-object.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -331,7 +331,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph/programming/system-design/architecture-patterns/mvc-mvp-mvvm-mvvm-c-viper.md",
+                "file": "graph/programming/OOP/data-transfer-object.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -354,7 +354,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "graph/programming/system-design/architecture-patterns/mvc-mvp-mvvm-mvvm-c-viper.md"
+                "file": "graph/programming/OOP/data-transfer-object.md"
               }
             }
           },
@@ -391,12 +391,22 @@
   },
   "active": "1b05a4be4a555a74",
   "lastOpenFiles": [
+    "graph/programming/OOP/default-behaviors.md",
+    "graph/programming/OOP/data-transfer-object.md",
+    "graph/programming/system-design/architecture-patterns/model.md",
+    "graph/programming/system-design/architecture-patterns/mvc-mvp-mvvm-mvvm-c-viper.md",
+    "graph/programming/system-design/architecture-patterns/mvvm.md",
+    "graph/programming/system-design/architecture-patterns/mvp.md",
+    "graph/programming/system-design/architecture-patterns/MVC.md",
+    "attachments/Pasted image 20231101163612.png",
+    "attachments/Pasted image 20231101163605.png",
+    "attachments/Pasted image 20231101163559.png",
+    "_tmp_1467_c4c796ad8a017223348e0e2662f2fab7",
     "_tmp_1205_1f7eb8373f53b722b0c014e4a357aac0",
     "_tmp_932_f5b407af6e434793ed889ce827be0925",
     "attachments/Pasted image 20231101160901.png",
     "_tmp_671_453c117b94f1efc02a52de62012b3d68",
     "What to read.md",
-    "graph/programming/system-design/architecture-patterns/mvc-mvp-mvvm-mvvm-c-viper.md",
     "graph/programming/system-design/architecture-patterns",
     "graph/programming/system-design/ci-cd/ci-cd.md",
     "graph/programming/system-design/ci-cd/end-to-end-tests.md",
@@ -424,19 +434,9 @@
     "_tmp_165_248e851a04f8e2fa692518ffa9bfb76d",
     "attachments/Pasted image 20231101125902.png",
     "graph/programming/system-design/api/gateway.md",
-    "_tmp_1515_b7855787818f3af9a1d7551cc81a23f9",
-    "attachments/Pasted image 20231101123012.png",
-    "_tmp_1260_14cb3db2b9ffeb9e9011091895def9bf",
-    "attachments/Pasted image 20231101122202.png",
     "graph/programming/system-design/api/api.md",
     "graph/programming/system-design/commmunication-protocols/communication-protocols.md",
     "graph/programming/internet-fundamentals/protocols/http.md",
-    "attachments/Pasted image 20231101121907.png",
-    "graph/programming/system-design/commmunication-protocols/Untitled.md",
-    "graph/programming/system-design/commmunication-protocols/websocket.md",
-    "graph/programming/system-design/commmunication-protocols/soap.md",
-    "graph/programming/system-design/commmunication-protocols/graphql.md",
-    "graph/programming/system-design/commmunication-protocols/trpc.md",
     "Untitled.canvas"
   ]
 }
