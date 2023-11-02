@@ -251,8 +251,12 @@
             "id": "0ae40e53dbec6179",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "how-website-works.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -322,6 +326,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "how-website-works.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -338,6 +343,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "how-website-works.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -359,7 +365,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "how-website-works.md"
+              }
             }
           },
           {
@@ -395,6 +403,7 @@
   },
   "active": "0ae40e53dbec6179",
   "lastOpenFiles": [
+    "_tmp_171_6f18c1780cfde4b99e288e33b7be72b8",
     "_tmp_689_18a43ef872791ede7fe88eafad0f45b1",
     "_tmp_427_7d99133112782bfde1a3e713f60867d8",
     "What to read.md",
@@ -423,7 +432,6 @@
     "_tmp_932_f5b407af6e434793ed889ce827be0925",
     "attachments/Pasted image 20231101160901.png",
     "_tmp_671_453c117b94f1efc02a52de62012b3d68",
-    "graph/programming/system-design/architecture-patterns",
     "graph/programming/system-design/ci-cd/ci-cd.md",
     "graph/programming/system-design/ci-cd/end-to-end-tests.md",
     "attachments/Pasted image 20231101152633.png",
