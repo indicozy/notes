@@ -4,407 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "3abffe953af99bc9",
+        "id": "4fffb3aa4be2ceba",
         "type": "tabs",
         "children": [
           {
-            "id": "9ed3cc606279b067",
+            "id": "55d7c84e9bbbfc65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graph/health/chemicals/tretinoin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc262689186a1b0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph/economics/banking/Islamic Banking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b5b60dc735c8062",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph/economics/banking/Islamic Banking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca30fdc02cb91fce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph/economics/banking/Islamic Banking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ccc1c9172bcec7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph/health/Apathy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7e201fdeff73064",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph/programming/design-patterns/creational-patterns/factory-method.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e88c7f173205830",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph/programming/design-patterns/creational-patterns/factory-method.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "461fa5af47e22209",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph/programming/design-patterns/creational-patterns/factory-method.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10c5dedd39a386d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph/programming/design-patterns/creational-patterns/factory-method.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "080219763c67f2b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph/programming/design-patterns/creational-patterns/singleton.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18c09e81e691635a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph/programming/design-patterns/creational-patterns/builder.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d524ecccdd853048",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph/programming/design-patterns/creational-patterns/builder.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25bd201dbbcaf901",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph/programming/design-patterns/creational-patterns/singleton.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88bc12fb1f650dd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph/programming/design-patterns/creational-patterns/singleton.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28b6b96c02842b32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph/programming/design-patterns/creational-patterns/prototype.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ec1fb09596b0f4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph/programming/system-design/commmunication-protocols/communication-protocols.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5250e7551c321609",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph/programming/system-design/commmunication-protocols/communication-protocols.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3af4a13b1af92acb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph/programming/system-design/proxy/nginx.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46b09d1a56372a21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph/programming/system-design/ci-cd/ci-cd.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b05a4be4a555a74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "how-website-works.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8316bdc169256d3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph/programming/databases/databases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c666dd25435f7c15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph/programming/databases/databases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b62e844621792f28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph/programming/databases/databases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f3abc3cea548710",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph/programming/databases/databases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5ba0b260a68f3c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph/programming/databases/databases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a9f09148c9ca0f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph/programming/databases/databases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b02014c6584dc114",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph/programming/databases/databases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29c376eedeffc875",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph/programming/databases/databases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4a309a280edcf3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph/programming/databases/databases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3143e4c27aaec26c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph/programming/databases/databases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5385c1c5aed1578",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph/programming/databases/databases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "932182357dd21d26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph/programming/databases/databases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "099d57068a86c583",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph/programming/databases/databases.md",
+                "file": "graph/programming/databases/immutable-ledger.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 32
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -470,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph/programming/databases/databases.md",
+                "file": "graph/programming/databases/immutable-ledger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -487,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph/programming/databases/databases.md",
+                "file": "graph/programming/databases/immutable-ledger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -510,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "graph/programming/databases/databases.md"
+                "file": "graph/programming/databases/immutable-ledger.md"
               }
             }
           },
@@ -523,8 +139,17 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "c274cd1db0f95302",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -542,24 +167,36 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "099d57068a86c583",
+  "active": "55d7c84e9bbbfc65",
   "lastOpenFiles": [
+    "graph/programming/databases/text-search.md",
+    "graph/programming/databases/relational.md",
+    "graph/programming/databases/databases.md",
+    "graph/programming/databases/graph.md",
+    "graph/programming/databases/immutable-ledger.md",
+    "graph/health/chemicals/tretinoin.md",
+    "graph/programming/design-patterns/creational-patterns/factory-method.md",
+    "graph/programming/design-patterns/creational-patterns/builder.md",
+    "graph/programming/design-patterns/creational-patterns/singleton.md",
+    "graph/programming/design-patterns/creational-patterns/prototype.md",
+    "graph/programming/system-design/commmunication-protocols/communication-protocols.md",
+    "graph/programming/system-design/proxy/nginx.md",
+    "graph/programming/system-design/ci-cd/ci-cd.md",
+    "how-website-works.md",
     "graph/programming/databases/document.md",
     "graph/programming/databases/blob.md",
-    "graph/programming/databases/databases.md",
-    "graph/programming/databases/text-search.md",
     "graph/programming/databases/columnar.md",
-    "graph/programming/databases/graph.md",
     "graph/programming/databases/geospatial.md",
-    "graph/programming/databases/immutable-ledger.md",
     "graph/programming/databases/time-series.md",
     "graph/programming/databases/wide-column.md",
     "graph/programming/databases/in-memory.md",
     "graph/programming/databases/key-value-database.md",
-    "graph/programming/databases/relational.md",
     "graph/programming/internet-fundamentals/excalidraw-test.md",
     "graph/programming/databases",
     "_tmp_52045_ee1fbb29e754826484789cd3d584b1f3",
@@ -572,21 +209,12 @@
     "_tmp_48960_d903611d33ee965de5eaef28a247e66e",
     "_tmp_46077_fd0540b1e5f844794559d9e1cc57b5dc",
     "Excalidraw/Drawing 2023-11-05 14.08.59.excalidraw.md",
-    "how-website-works.md",
     "graph/programming/OOP/plain-old-java-object.md",
     "What to read.md",
-    "graph/programming/system-design/architecture-patterns/viper.md",
     "attachments/Pasted image 20231101181249.png",
-    "graph/programming/system-design/architecture-patterns/mvvm.md",
-    "graph/programming/system-design/architecture-patterns/mvp.md",
-    "graph/programming/system-design/architecture-patterns/MVC.md",
     "attachments/Pasted image 20231101180129.png",
-    "graph/programming/system-design/architecture-patterns/mvc-mvp-mvvm-mvvm-c-viper.md",
     "attachments/Pasted image 20231101174742.png",
     "attachments/Pasted image 20231101174739.png",
-    "graph/programming/OOP/data-transfer-object.md",
-    "graph/programming/OOP/default-behaviors.md",
-    "graph/programming/system-design/architecture-patterns/model.md",
     "attachments/Pasted image 20231101163612.png",
     "attachments/Pasted image 20231101163605.png",
     "attachments/Pasted image 20231101163559.png",

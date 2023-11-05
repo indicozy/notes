@@ -13,3 +13,8 @@
 - [[graph/programming/databases/text-search|text-search]]
 ## Unstructured
 - [[graph/programming/databases/blob|blob]]
+
+
+```mermaid
+graph TD; A-->B; A-->C; B-->D; C-->D;
+```
