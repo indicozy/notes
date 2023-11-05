@@ -1,7 +1,6 @@
 # How indicozy's personal blog works
 **TLDR**: Use [Obsidian Publish](https://obsidian.md/publish)
 
-
 1. Obsidian has git extension, which commits and pushes automatically.
 2. Git has `pre-commit` hook, which triggers markdown parser. It also backups notes in GitHub.
 3. . Parser does many stuff:
