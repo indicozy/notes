@@ -19,6 +19,7 @@
 	4. Timezone API shows what timezone I am at.
 5. Qwik then:
 	1. Caches compiles and caches data from bucket and APII
-	2. Clients requires. Therefore:
-	3. website is quite fast, requires no hydration and 
- 
+	2. Clients require no JavaScript.
+	4. Lazy loads JavaScript on need, without bloating the client's user experience
+	5. Requires no hydration because Qwik works by Resumability;
+	6. CSS is written from scratch, so it requires much less data and external libraries to be sent;
