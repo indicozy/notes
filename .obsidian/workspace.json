@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graph/programming/architecture/microservice.md",
+                "file": "graph/programming/programs/Kafka.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph/programming/architecture/microservice.md",
+                "file": "graph/programming/programs/Kafka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph/programming/architecture/microservice.md",
+                "file": "graph/programming/programs/Kafka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "graph/programming/architecture/microservice.md"
+                "file": "graph/programming/programs/Kafka.md"
               }
             }
           },
@@ -188,9 +188,12 @@
   },
   "active": "5b20a6cfe6c0ae03",
   "lastOpenFiles": [
+    "attachments/Pasted image 20231105235739.png",
+    "graph/programming/architecture/microservice.md",
+    "graph/programming/programs/Kafka.md",
+    "graph/programming/architecture/microfrontend.md",
     "graph/programming/architecture/domain-driven-design/domain-driven-design.md",
     "graph/programming/architecture/domain-driven-design",
-    "graph/programming/architecture/microservice.md",
     "attachments/Pasted image 20231105234425.png",
     "attachments/Pasted image 20231105234400.png",
     "attachments/Pasted image 20231105234236.png",
@@ -227,9 +230,7 @@
     "graph/programming/data-structures/indexes/b-tree-index.md",
     "graph/programming/data-structures/indexes/brin-indexes.md",
     "graph/programming/data-structures/indexes/gin-indexes.md",
-    "graph/programming/data-structures/indexes/gist-indexes.md",
     "graph/programming/data-structures/indexes",
-    "graph/programming/techniques/coin-flipping.md",
     "graph/programming/techniques",
     "graph/programming/coin-flipping",
     "graph/programming/data-structures",
