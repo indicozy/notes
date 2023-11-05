@@ -4,5 +4,9 @@
   "dataview",
   "table-editor-obsidian",
   "obsidian-outliner",
-  "obsidian-minimal-settings"
+  "obsidian-minimal-settings",
+  "better-word-count",
+  "obsidian-linter",
+  "find-unlinked-files",
+  "obsidian-memos"
 ]
