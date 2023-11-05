@@ -1,0 +1,1 @@
+Used from [[graph/programming/data-structures/balanced-tree|balanced-tree]]

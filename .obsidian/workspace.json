@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graph/programming/databases/skiplist.md",
+                "file": "graph/programming/data-structures/hash-index.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph/programming/databases/skiplist.md",
+                "file": "graph/programming/data-structures/hash-index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph/programming/databases/skiplist.md",
+                "file": "graph/programming/data-structures/hash-index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "graph/programming/databases/skiplist.md"
+                "file": "graph/programming/data-structures/hash-index.md"
               }
             }
           },
@@ -188,19 +188,30 @@
   },
   "active": "eb291551c854e58f",
   "lastOpenFiles": [
+    "graph/programming/data-structures/sstable.md",
+    "graph/programming/data-structures/data-structures-of-databases.md",
+    "graph/programming/data-structures/balanced-tree.md",
+    "graph/programming/data-structures/indexes/b-tree-index.md",
+    "graph/programming/data-structures/hash-index.md",
+    "graph/programming/data-structures/indexes/brin-indexes.md",
+    "graph/programming/data-structures/indexes/gin-indexes.md",
+    "graph/programming/data-structures/indexes/gist-indexes.md",
+    "graph/programming/data-structures/indexes",
+    "graph/programming/data-structures/skip-list.md",
+    "graph/programming/data-structures/probablistic.md",
+    "attachments/Pasted image 20231105231409.png",
+    "graph/programming/databases/databases.md",
+    "attachments/Pasted image 20231105231231.png",
     "graph/programming/techniques/coin-flipping.md",
     "graph/programming/techniques/coin-flipping.md",
     "graph/programming/techniques",
     "graph/programming/techniques.md",
     "graph/programming/coin-flipping",
-    "graph/programming/databases/skiplist.md",
     "graph/programming/databases/wide-column.md",
     "graph/programming/databases/columnar.md",
-    "graph/programming/databases/databases.md",
     "graph/programming/databases/in-memory.md",
     "graph/programming/databases/graph.md",
     "graph/programming/databases/geospatial.md",
-    "graph/programming/data-structures/probablistic.md",
     "graph/programming/data-structures",
     "graph/programming/programs/redis.md",
     "graph/programming/programs",
@@ -211,20 +222,11 @@
     "graph/programming/databases/relational.md",
     "graph/health/chemicals/tretinoin.md",
     "graph/programming/design-patterns/creational-patterns/factory-method.md",
-    "graph/programming/design-patterns/creational-patterns/builder.md",
-    "graph/programming/design-patterns/creational-patterns/singleton.md",
-    "graph/programming/design-patterns/creational-patterns/prototype.md",
-    "graph/programming/system-design/commmunication-protocols/communication-protocols.md",
-    "graph/programming/system-design/proxy/nginx.md",
-    "graph/programming/system-design/ci-cd/ci-cd.md",
-    "how-website-works.md",
-    "graph/programming/databases/document.md",
     "graph/programming/databases",
     "_tmp_52045_ee1fbb29e754826484789cd3d584b1f3",
     "_tmp_51803_c823df2e799eb353eaf2622be42dd797",
     "_tmp_680_007f67220bf0d8aca8900283ee860846",
     "_tmp_51067_c27ebeac9b919ba6fd063e2b455da78b",
-    "_tmp_50808_5e4e928f187850d7cf351b650ebf4087",
     "attachments/Pasted image 20231101181249.png",
     "attachments/Pasted image 20231101180129.png",
     "attachments/Pasted image 20231101174742.png",
@@ -232,8 +234,6 @@
     "attachments/Pasted image 20231101163612.png",
     "attachments/Pasted image 20231101163605.png",
     "attachments/Pasted image 20231101163559.png",
-    "attachments/Pasted image 20231101160901.png",
-    "attachments/Pasted image 20231101152633.png",
     "Untitled.canvas"
   ]
 }
