@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graph/programming/databases/databases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb291551c854e58f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph/programming/data-structures/hash-index.md",
+                "file": "graph/programming/cache/cache.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph/programming/data-structures/hash-index.md",
+                "file": "graph/programming/cache/cache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph/programming/data-structures/hash-index.md",
+                "file": "graph/programming/cache/cache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "graph/programming/data-structures/hash-index.md"
+                "file": "graph/programming/cache/cache.md"
               }
             }
           },
@@ -186,21 +173,38 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "eb291551c854e58f",
+  "active": "55d7c84e9bbbfc65",
   "lastOpenFiles": [
-    "graph/programming/data-structures/sstable.md",
+    "graph/programming/languages/domain-languages/sql.md",
+    "graph/programming/cache/cache.md",
+    "graph/programming/cache",
+    "attachments/Pasted image 20231105232738.png",
+    "attachments/Pasted image 20231105232538.png",
+    "graph/programming/memory-storage/memory-storage.md",
+    "attachments/Pasted image 20231105232514.png",
+    "graph/programming/databases/cap-theorem.md",
+    "graph/programming/memory-storage",
+    "attachments/Pasted image 20231105232406.png",
+    "attachments/Pasted image 20231105232157.png",
+    "graph/programming/languages/domain-languages",
+    "graph/programming/languages",
+    "graph/programming/databases/databases.md",
     "graph/programming/data-structures/data-structures-of-databases.md",
+    "graph/programming/data-structures/r-tree.md",
+    "graph/programming/data-structures/suffix-tree.md",
+    "graph/programming/data-structures/probablistic.md",
+    "graph/programming/data-structures/sstable.md",
+    "graph/programming/data-structures/skip-list.md",
+    "graph/programming/programs/lucene.md",
+    "graph/programming/data-structures/inverted-index.md",
     "graph/programming/data-structures/balanced-tree.md",
-    "graph/programming/data-structures/indexes/b-tree-index.md",
     "graph/programming/data-structures/hash-index.md",
+    "graph/programming/data-structures/indexes/b-tree-index.md",
     "graph/programming/data-structures/indexes/brin-indexes.md",
     "graph/programming/data-structures/indexes/gin-indexes.md",
     "graph/programming/data-structures/indexes/gist-indexes.md",
     "graph/programming/data-structures/indexes",
-    "graph/programming/data-structures/skip-list.md",
-    "graph/programming/data-structures/probablistic.md",
     "attachments/Pasted image 20231105231409.png",
-    "graph/programming/databases/databases.md",
     "attachments/Pasted image 20231105231231.png",
     "graph/programming/techniques/coin-flipping.md",
     "graph/programming/techniques/coin-flipping.md",
@@ -211,29 +215,12 @@
     "graph/programming/databases/columnar.md",
     "graph/programming/databases/in-memory.md",
     "graph/programming/databases/graph.md",
-    "graph/programming/databases/geospatial.md",
     "graph/programming/data-structures",
-    "graph/programming/programs/redis.md",
     "graph/programming/programs",
     "attachments/Pasted image 20231105225910.png",
-    "graph/programming/databases/blob.md",
-    "graph/programming/databases/immutable-ledger.md",
-    "graph/programming/databases/text-search.md",
-    "graph/programming/databases/relational.md",
-    "graph/health/chemicals/tretinoin.md",
-    "graph/programming/design-patterns/creational-patterns/factory-method.md",
     "graph/programming/databases",
-    "_tmp_52045_ee1fbb29e754826484789cd3d584b1f3",
-    "_tmp_51803_c823df2e799eb353eaf2622be42dd797",
-    "_tmp_680_007f67220bf0d8aca8900283ee860846",
-    "_tmp_51067_c27ebeac9b919ba6fd063e2b455da78b",
     "attachments/Pasted image 20231101181249.png",
     "attachments/Pasted image 20231101180129.png",
-    "attachments/Pasted image 20231101174742.png",
-    "attachments/Pasted image 20231101174739.png",
-    "attachments/Pasted image 20231101163612.png",
-    "attachments/Pasted image 20231101163605.png",
-    "attachments/Pasted image 20231101163559.png",
     "Untitled.canvas"
   ]
 }

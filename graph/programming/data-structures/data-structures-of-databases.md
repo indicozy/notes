@@ -1,4 +1,8 @@
 ![[attachments/Pasted image 20231105231409.png]]
 - [[graph/programming/data-structures/skip-list|skip-list]]
 - [[graph/programming/data-structures/hash-index|hash-index]]
-- 
+- [[graph/programming/data-structures/sstable|sstable]]
+- [[graph/programming/data-structures/balanced-tree|balanced-tree]]
+- [[inverted-index]]
+- [[graph/programming/data-structures/suffix-tree|suffix-tree]]
+- [[graph/programming/data-structures/r-tree|r-tree]]
