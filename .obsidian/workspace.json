@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graph/programming/databases/immutable-ledger.md",
+                "file": "graph/programming/databases/databases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb291551c854e58f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "graph/programming/databases/skiplist.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph/programming/databases/immutable-ledger.md",
+                "file": "graph/programming/databases/skiplist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph/programming/databases/immutable-ledger.md",
+                "file": "graph/programming/databases/skiplist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "graph/programming/databases/immutable-ledger.md"
+                "file": "graph/programming/databases/skiplist.md"
               }
             }
           },
@@ -173,13 +186,29 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "55d7c84e9bbbfc65",
+  "active": "eb291551c854e58f",
   "lastOpenFiles": [
+    "graph/programming/techniques/coin-flipping.md",
+    "graph/programming/techniques/coin-flipping.md",
+    "graph/programming/techniques",
+    "graph/programming/techniques.md",
+    "graph/programming/coin-flipping",
+    "graph/programming/databases/skiplist.md",
+    "graph/programming/databases/wide-column.md",
+    "graph/programming/databases/columnar.md",
+    "graph/programming/databases/databases.md",
+    "graph/programming/databases/in-memory.md",
+    "graph/programming/databases/graph.md",
+    "graph/programming/databases/geospatial.md",
+    "graph/programming/data-structures/probablistic.md",
+    "graph/programming/data-structures",
+    "graph/programming/programs/redis.md",
+    "graph/programming/programs",
+    "attachments/Pasted image 20231105225910.png",
+    "graph/programming/databases/blob.md",
+    "graph/programming/databases/immutable-ledger.md",
     "graph/programming/databases/text-search.md",
     "graph/programming/databases/relational.md",
-    "graph/programming/databases/databases.md",
-    "graph/programming/databases/graph.md",
-    "graph/programming/databases/immutable-ledger.md",
     "graph/health/chemicals/tretinoin.md",
     "graph/programming/design-patterns/creational-patterns/factory-method.md",
     "graph/programming/design-patterns/creational-patterns/builder.md",
@@ -190,27 +219,12 @@
     "graph/programming/system-design/ci-cd/ci-cd.md",
     "how-website-works.md",
     "graph/programming/databases/document.md",
-    "graph/programming/databases/blob.md",
-    "graph/programming/databases/columnar.md",
-    "graph/programming/databases/geospatial.md",
-    "graph/programming/databases/time-series.md",
-    "graph/programming/databases/wide-column.md",
-    "graph/programming/databases/in-memory.md",
-    "graph/programming/databases/key-value-database.md",
-    "graph/programming/internet-fundamentals/excalidraw-test.md",
     "graph/programming/databases",
     "_tmp_52045_ee1fbb29e754826484789cd3d584b1f3",
     "_tmp_51803_c823df2e799eb353eaf2622be42dd797",
     "_tmp_680_007f67220bf0d8aca8900283ee860846",
     "_tmp_51067_c27ebeac9b919ba6fd063e2b455da78b",
     "_tmp_50808_5e4e928f187850d7cf351b650ebf4087",
-    "_tmp_49871_f51ea39febc761bfdf512ae21e8c7489",
-    "_tmp_423_de094cd05416d3fc2bd3779ac7e50d99",
-    "_tmp_48960_d903611d33ee965de5eaef28a247e66e",
-    "_tmp_46077_fd0540b1e5f844794559d9e1cc57b5dc",
-    "Excalidraw/Drawing 2023-11-05 14.08.59.excalidraw.md",
-    "graph/programming/OOP/plain-old-java-object.md",
-    "What to read.md",
     "attachments/Pasted image 20231101181249.png",
     "attachments/Pasted image 20231101180129.png",
     "attachments/Pasted image 20231101174742.png",
@@ -220,7 +234,6 @@
     "attachments/Pasted image 20231101163559.png",
     "attachments/Pasted image 20231101160901.png",
     "attachments/Pasted image 20231101152633.png",
-    "attachments/Pasted image 20231101152428.png",
     "Untitled.canvas"
   ]
 }
