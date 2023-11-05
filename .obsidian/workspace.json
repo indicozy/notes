@@ -253,14 +253,158 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graph/programming/internet-fundamentals/excalidraw-test.md",
+                "file": "graph/programming/databases/databases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c666dd25435f7c15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "graph/programming/databases/databases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b62e844621792f28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "graph/programming/databases/databases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f3abc3cea548710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "graph/programming/databases/databases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5ba0b260a68f3c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "graph/programming/databases/databases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a9f09148c9ca0f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "graph/programming/databases/databases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b02014c6584dc114",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "graph/programming/databases/databases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29c376eedeffc875",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "graph/programming/databases/databases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4a309a280edcf3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "graph/programming/databases/databases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3143e4c27aaec26c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "graph/programming/databases/databases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5385c1c5aed1578",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "graph/programming/databases/databases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "932182357dd21d26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "graph/programming/databases/databases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "099d57068a86c583",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "graph/programming/databases/databases.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 32
       }
     ],
     "direction": "vertical"
@@ -326,7 +470,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph/programming/internet-fundamentals/excalidraw-test.md",
+                "file": "graph/programming/databases/databases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -343,7 +487,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph/programming/internet-fundamentals/excalidraw-test.md",
+                "file": "graph/programming/databases/databases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -366,7 +510,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "graph/programming/internet-fundamentals/excalidraw-test.md"
+                "file": "graph/programming/databases/databases.md"
               }
             }
           },
@@ -401,8 +545,23 @@
       "random-note:Open random note": false
     }
   },
-  "active": "8316bdc169256d3d",
+  "active": "099d57068a86c583",
   "lastOpenFiles": [
+    "graph/programming/databases/document.md",
+    "graph/programming/databases/blob.md",
+    "graph/programming/databases/databases.md",
+    "graph/programming/databases/text-search.md",
+    "graph/programming/databases/columnar.md",
+    "graph/programming/databases/graph.md",
+    "graph/programming/databases/geospatial.md",
+    "graph/programming/databases/immutable-ledger.md",
+    "graph/programming/databases/time-series.md",
+    "graph/programming/databases/wide-column.md",
+    "graph/programming/databases/in-memory.md",
+    "graph/programming/databases/key-value-database.md",
+    "graph/programming/databases/relational.md",
+    "graph/programming/internet-fundamentals/excalidraw-test.md",
+    "graph/programming/databases",
     "_tmp_52045_ee1fbb29e754826484789cd3d584b1f3",
     "_tmp_51803_c823df2e799eb353eaf2622be42dd797",
     "_tmp_680_007f67220bf0d8aca8900283ee860846",
@@ -413,10 +572,7 @@
     "_tmp_48960_d903611d33ee965de5eaef28a247e66e",
     "_tmp_46077_fd0540b1e5f844794559d9e1cc57b5dc",
     "Excalidraw/Drawing 2023-11-05 14.08.59.excalidraw.md",
-    "graph/programming/internet-fundamentals/excalidraw-test.md",
     "how-website-works.md",
-    "_tmp_165_8e5c55be22288ff6edccaba0ba3f791b",
-    "_tmp_695_b8a0655756673409415e1c99b3aad095",
     "graph/programming/OOP/plain-old-java-object.md",
     "What to read.md",
     "graph/programming/system-design/architecture-patterns/viper.md",
@@ -435,20 +591,8 @@
     "attachments/Pasted image 20231101163605.png",
     "attachments/Pasted image 20231101163559.png",
     "attachments/Pasted image 20231101160901.png",
-    "graph/programming/system-design/ci-cd/ci-cd.md",
-    "graph/programming/system-design/ci-cd/end-to-end-tests.md",
     "attachments/Pasted image 20231101152633.png",
-    "graph/programming/internet-fundamentals/url.md",
     "attachments/Pasted image 20231101152428.png",
-    "graph/programming/system-design/proxy/load-balancing.md",
-    "graph/programming/system-design/proxy/reverse-proxy.md",
-    "graph/programming/system-design/proxy/nginx.md",
-    "graph/programming/system-design/proxy/apache.md",
-    "graph/programming/internet-fundamentals/protocols/tcp.md",
-    "graph/health/chemicals/tretinoin.md",
-    "graph/programming/design-patterns/template-method.md",
-    "graph/programming/internet-fundamentals/osi-model.md",
-    "graph/programming/internet-fundamentals/Untitled 1.md",
     "Untitled.canvas"
   ]
 }
