@@ -14,3 +14,7 @@
 - Materialized View: Pre-compute query results and store them in the database tables for better query performance
 - Transaction log: record all the transactions and database updates
 - Replication Log: used to record the replication state in a database cluster
+
+## Top caching strategies
+
+![[attachments/Pasted image 20231105234132.png]]
