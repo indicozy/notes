@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graph/programming/cache/cache.md",
+                "file": "graph/programming/programs/memcached.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph/programming/cache/cache.md",
+                "file": "graph/programming/programs/memcached.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph/programming/cache/cache.md",
+                "file": "graph/programming/programs/memcached.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "graph/programming/cache/cache.md"
+                "file": "graph/programming/programs/memcached.md"
               }
             }
           },
@@ -175,8 +175,12 @@
   },
   "active": "55d7c84e9bbbfc65",
   "lastOpenFiles": [
-    "graph/programming/languages/domain-languages/sql.md",
+    "graph/programming/programs/redis.md",
+    "graph/programming/programs/memcached.md",
+    "attachments/Pasted image 20231105233026.png",
     "graph/programming/cache/cache.md",
+    "attachments/Pasted image 20231105232852.png",
+    "graph/programming/languages/domain-languages/sql.md",
     "graph/programming/cache",
     "attachments/Pasted image 20231105232738.png",
     "attachments/Pasted image 20231105232538.png",
@@ -213,14 +217,10 @@
     "graph/programming/coin-flipping",
     "graph/programming/databases/wide-column.md",
     "graph/programming/databases/columnar.md",
-    "graph/programming/databases/in-memory.md",
-    "graph/programming/databases/graph.md",
     "graph/programming/data-structures",
     "graph/programming/programs",
     "attachments/Pasted image 20231105225910.png",
     "graph/programming/databases",
-    "attachments/Pasted image 20231101181249.png",
-    "attachments/Pasted image 20231101180129.png",
     "Untitled.canvas"
   ]
 }
