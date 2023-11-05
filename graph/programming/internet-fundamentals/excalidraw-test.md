@@ -1,0 +1,1 @@
+[[Excalidraw/Drawing 2023-11-05 14.08.59.excalidraw|Drawing 2023-11-05 14.08.59.excalidraw]]

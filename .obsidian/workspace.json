@@ -246,9 +246,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8316bdc169256d3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "graph/programming/internet-fundamentals/excalidraw-test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -314,7 +326,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "how-website-works.md",
+                "file": "graph/programming/internet-fundamentals/excalidraw-test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -331,7 +343,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "how-website-works.md",
+                "file": "graph/programming/internet-fundamentals/excalidraw-test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -354,7 +366,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "how-website-works.md"
+                "file": "graph/programming/internet-fundamentals/excalidraw-test.md"
               }
             }
           },
@@ -389,11 +401,14 @@
       "random-note:Open random note": false
     }
   },
-  "active": "1b05a4be4a555a74",
+  "active": "8316bdc169256d3d",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-11-05 14.08.59.excalidraw.md",
+    "graph/programming/internet-fundamentals/excalidraw-test.md",
+    "how-website-works.md",
+    "_tmp_165_8e5c55be22288ff6edccaba0ba3f791b",
     "_tmp_695_b8a0655756673409415e1c99b3aad095",
     "graph/programming/OOP/plain-old-java-object.md",
-    "how-website-works.md",
     "_tmp_434_93e25622215a44530d359c7d54d4e76f",
     "_tmp_171_6f18c1780cfde4b99e288e33b7be72b8",
     "_tmp_689_18a43ef872791ede7fe88eafad0f45b1",
@@ -418,8 +433,6 @@
     "attachments/Pasted image 20231101163612.png",
     "attachments/Pasted image 20231101163605.png",
     "attachments/Pasted image 20231101163559.png",
-    "_tmp_1467_c4c796ad8a017223348e0e2662f2fab7",
-    "_tmp_1205_1f7eb8373f53b722b0c014e4a357aac0",
     "attachments/Pasted image 20231101160901.png",
     "graph/programming/system-design/ci-cd/ci-cd.md",
     "graph/programming/system-design/ci-cd/end-to-end-tests.md",
@@ -430,7 +443,6 @@
     "graph/programming/system-design/proxy/reverse-proxy.md",
     "graph/programming/system-design/proxy/nginx.md",
     "graph/programming/system-design/proxy/apache.md",
-    "graph/programming/internet-fundamentals/Untitled.md",
     "graph/programming/internet-fundamentals/protocols/tcp.md",
     "graph/health/chemicals/tretinoin.md",
     "graph/programming/design-patterns/template-method.md",
