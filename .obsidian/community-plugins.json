@@ -1,4 +1,8 @@
 [
   "obsidian-git",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "dataview",
+  "table-editor-obsidian",
+  "obsidian-outliner",
+  "obsidian-minimal-settings"
 ]
