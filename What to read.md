@@ -9,6 +9,7 @@ TODO: Stopped at VIPER and data access object, data access layer
 - Vue
 - Angular
 - https://career-ladders.dev/engineering/#engineer-i
+- Caddy 2, замена Nginx
 
 ## Programming
 - Confluence
