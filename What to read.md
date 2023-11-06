@@ -5,6 +5,7 @@ TODO: Stopped at VIPER and data access object, data access layer
 - идеальный программист роберт мартин - для тимлида
 - Метод параноика - для тимлида
 - ReWork
+- https://habr.com/ru/companies/yandex/articles/666870/
 
 ## Programming
 - Confluence

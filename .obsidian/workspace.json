@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graph/programming/programs/Kafka.md",
+                "file": "What to read.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph/programming/programs/Kafka.md",
+                "file": "What to read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph/programming/programs/Kafka.md",
+                "file": "What to read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "graph/programming/programs/Kafka.md"
+                "file": "What to read.md"
               }
             }
           },
@@ -188,9 +188,9 @@
   },
   "active": "5b20a6cfe6c0ae03",
   "lastOpenFiles": [
+    "graph/programming/programs/Kafka.md",
     "attachments/Pasted image 20231105235739.png",
     "graph/programming/architecture/microservice.md",
-    "graph/programming/programs/Kafka.md",
     "graph/programming/architecture/microfrontend.md",
     "graph/programming/architecture/domain-driven-design/domain-driven-design.md",
     "graph/programming/architecture/domain-driven-design",
@@ -211,7 +211,6 @@
     "attachments/Pasted image 20231105232738.png",
     "attachments/Pasted image 20231105232538.png",
     "graph/programming/memory-storage/memory-storage.md",
-    "attachments/Pasted image 20231105232514.png",
     "graph/programming/databases/cap-theorem.md",
     "graph/programming/memory-storage",
     "graph/programming/languages/domain-languages",
