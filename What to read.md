@@ -6,10 +6,11 @@ TODO: Stopped at VIPER and data access object, data access layer
 - Метод параноика - для тимлида
 - ReWork
 - https://habr.com/ru/companies/yandex/articles/666870/
-- Vue
+- Vue, Nuxt
 - Angular
 - https://career-ladders.dev/engineering/#engineer-i
 - Caddy 2, замена Nginx
+- https://healthy-manatee-bc3.notion.site/Test-assignment-9506f7eec0a74525ab88a333e71b8794
 
 ## Programming
 - Confluence
