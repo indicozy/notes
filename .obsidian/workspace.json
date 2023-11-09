@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What to read.md",
+                "file": "graph/programming/terminology/Generics.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What to read.md",
+                "file": "graph/programming/terminology/Generics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What to read.md",
+                "file": "graph/programming/terminology/Generics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What to read.md"
+                "file": "graph/programming/terminology/Generics.md"
               }
             }
           },
@@ -175,6 +175,9 @@
   },
   "active": "5b20a6cfe6c0ae03",
   "lastOpenFiles": [
+    "What to read.md",
+    "graph/programming/terminology/Generics.md",
+    "graph/programming/terminology",
     "graph/programming/programs/Kafka.md",
     "attachments/Pasted image 20231105235739.png",
     "graph/programming/architecture/microservice.md",
@@ -215,11 +218,9 @@
     "graph/programming/data-structures/hash-index.md",
     "graph/programming/data-structures/indexes/b-tree-index.md",
     "graph/programming/data-structures/indexes/brin-indexes.md",
-    "graph/programming/data-structures/indexes/gin-indexes.md",
     "graph/programming/data-structures/indexes",
     "graph/programming/techniques",
     "graph/programming/coin-flipping",
-    "graph/programming/data-structures",
     "Untitled.canvas"
   ]
 }

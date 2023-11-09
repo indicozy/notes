@@ -1,0 +1,1 @@
+> There is no thing as Generics, because it is an adjective. Generics can be either generic functions or generic types [(C) Matt Pocock](https://www.youtube.com/watch?v=le5ciL1T7Hk)
