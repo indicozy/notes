@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graph/programming/design-patterns/behavioral-patterns/Proxy.md",
+                "file": "graph/programming/design-patterns/structural-patterns/bridge.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph/programming/design-patterns/behavioral-patterns/Proxy.md",
+                "file": "graph/programming/design-patterns/structural-patterns/bridge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph/programming/design-patterns/behavioral-patterns/Proxy.md",
+                "file": "graph/programming/design-patterns/structural-patterns/bridge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "graph/programming/design-patterns/behavioral-patterns/Proxy.md"
+                "file": "graph/programming/design-patterns/structural-patterns/bridge.md"
               }
             }
           },
@@ -175,9 +175,17 @@
   },
   "active": "5b20a6cfe6c0ae03",
   "lastOpenFiles": [
-    "attachments/Pasted image 20231110223812.png",
+    "graph/programming/design-patterns/dependency-injection.md",
+    "graph/programming/design-patterns/antipatterns/prop-drilling.md",
+    "graph/programming/design-patterns/structural-patterns/provider.md",
+    "graph/programming/design-patterns/antipatterns",
     "graph/programming/design-patterns/creational-patterns/singleton.md",
-    "graph/programming/design-patterns/behavioral-patterns/Proxy.md",
+    "graph/programming/design-patterns/behavioral-patterns/proxy-object.md",
+    "attachments/Pasted image 20231110224420.png",
+    "attachments/Pasted image 20231110224243.png",
+    "attachments/Pasted image 20231110224059.png",
+    "attachments/Pasted image 20231110224040.png",
+    "attachments/Pasted image 20231110223812.png",
     "attachments/Pasted image 20231110222609.png",
     "attachments/Pasted image 20231110222429.png",
     "attachments/Pasted image 20231110222419.png",
@@ -199,15 +207,10 @@
     "graph/programming/architecture/microfrontend.md",
     "graph/programming/architecture/domain-driven-design/domain-driven-design.md",
     "graph/programming/architecture/domain-driven-design",
-    "attachments/Pasted image 20231105234425.png",
-    "attachments/Pasted image 20231105234400.png",
-    "attachments/Pasted image 20231105234236.png",
     "graph/programming/cache/cache.md",
     "graph/programming/architecture",
-    "attachments/Pasted image 20231105234132.png",
     "graph/programming/programs/redis.md",
     "graph/programming/cache/Untitled.md",
-    "attachments/Pasted image 20231105234038.png",
     "graph/programming/programs/memcached.md",
     "graph/programming/languages/domain-languages/sql.md",
     "graph/programming/cache",
@@ -218,9 +221,6 @@
     "graph/programming/languages",
     "graph/programming/databases/databases.md",
     "graph/programming/data-structures/data-structures-of-databases.md",
-    "graph/programming/data-structures/r-tree.md",
-    "graph/programming/data-structures/suffix-tree.md",
-    "graph/programming/data-structures/indexes",
     "Untitled.canvas"
   ]
 }

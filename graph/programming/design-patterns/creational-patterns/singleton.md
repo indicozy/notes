@@ -43,3 +43,4 @@ be shared throughout the application, which would all get modifed as well.
 ## Sources
 - https://refactoring.guru/design-patterns/singleton
 - https://www.yegor256.com/2016/06/27/singletons-must-die.html
+- Learning patterns book

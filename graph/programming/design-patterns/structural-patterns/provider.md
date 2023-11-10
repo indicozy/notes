@@ -1,0 +1,1 @@
+. It helps to avoid [[prop-drilling]]
