@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graph/health/psychology/Death.md",
+                "file": "graph/programming/design-patterns/creational-patterns/singleton.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph/health/psychology/Death.md",
+                "file": "graph/programming/design-patterns/creational-patterns/singleton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph/health/psychology/Death.md",
+                "file": "graph/programming/design-patterns/creational-patterns/singleton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "graph/health/psychology/Death.md"
+                "file": "graph/programming/design-patterns/creational-patterns/singleton.md"
               }
             }
           },
@@ -175,12 +175,18 @@
   },
   "active": "5b20a6cfe6c0ae03",
   "lastOpenFiles": [
+    "attachments/Pasted image 20231110222609.png",
+    "attachments/Pasted image 20231110222429.png",
+    "attachments/Pasted image 20231110222419.png",
     "graph/health/psychology/Depression.md",
+    "graph/programming/design-patterns/creational-patterns/singleton.md",
+    "attachments/Pasted image 20231110221917.png",
+    "graph/programming/design-patterns/creational-patterns/prototype.md",
+    "graph/health/psychology/Death.md",
     "graph/philosophy/nigilism.md",
     "graph/health/psychology/helplessness.md",
     "graph/health/psychology/emotional-intelligence.md",
     "graph/philosophy",
-    "graph/health/psychology/Death.md",
     "graph/programming/terminology/Generics.md",
     "graph/health/psychology",
     "What to read.md",
@@ -202,11 +208,8 @@
     "attachments/Pasted image 20231105234038.png",
     "graph/programming/programs/memcached.md",
     "attachments/Pasted image 20231105233026.png",
-    "attachments/Pasted image 20231105232852.png",
     "graph/programming/languages/domain-languages/sql.md",
     "graph/programming/cache",
-    "attachments/Pasted image 20231105232738.png",
-    "attachments/Pasted image 20231105232538.png",
     "graph/programming/memory-storage/memory-storage.md",
     "graph/programming/databases/cap-theorem.md",
     "graph/programming/memory-storage",
@@ -217,8 +220,6 @@
     "graph/programming/data-structures/r-tree.md",
     "graph/programming/data-structures/suffix-tree.md",
     "graph/programming/data-structures/probablistic.md",
-    "graph/programming/data-structures/sstable.md",
-    "graph/programming/data-structures/skip-list.md",
     "graph/programming/data-structures/indexes",
     "Untitled.canvas"
   ]
