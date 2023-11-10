@@ -21,15 +21,15 @@ Singleton ensures that class has only one instance so everyone is working with a
 3. This principle masks behind the bad implementation, goes away from [[graph/programming/functional-programming/functional-programming|functional-programming]]. 
 4. Therefore, it is hard to work with it in [[graph/programming/multithreading/multithreading|multithreading]]. 
 5. Also,it is hard to do unit test with it, because unit test was made SPECIFICALLY to test things independently.
-6. Having global variables is generally considered as a bad design decision. Global scope pollution can end up in accidentally overwriting the value of a global variable, which can lead to a lot of unexpected behavior.
+6. Global scope pollution can end up in accidentally overwriting the value of a global variable, which can lead to a lot of unexpected behavior.
 
 ## Dependency hiding
 When importing another module, superCounter.js in this case, it may not be
-obvious that that module is importing a Singleton. In other les, such
+obvious that that module is importing a Singleton. In other, such
 as index.js in this case, we may be importing that module and invoke its
 methods. This way, we accidentally modify the values in the Singleton. This
 can lead to unexpected behavior, since multiple instances of the Singleton can
-be shared throughout the application, which would all get modi ed as well.
+be shared throughout the application, which would all get modifed as well.
 
 ![[attachments/Pasted image 20231110222609.png]]
 

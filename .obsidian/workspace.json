@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graph/programming/design-patterns/creational-patterns/singleton.md",
+                "file": "graph/programming/design-patterns/behavioral-patterns/Proxy.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph/programming/design-patterns/creational-patterns/singleton.md",
+                "file": "graph/programming/design-patterns/behavioral-patterns/Proxy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph/programming/design-patterns/creational-patterns/singleton.md",
+                "file": "graph/programming/design-patterns/behavioral-patterns/Proxy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "graph/programming/design-patterns/creational-patterns/singleton.md"
+                "file": "graph/programming/design-patterns/behavioral-patterns/Proxy.md"
               }
             }
           },
@@ -175,11 +175,13 @@
   },
   "active": "5b20a6cfe6c0ae03",
   "lastOpenFiles": [
+    "attachments/Pasted image 20231110223812.png",
+    "graph/programming/design-patterns/creational-patterns/singleton.md",
+    "graph/programming/design-patterns/behavioral-patterns/Proxy.md",
     "attachments/Pasted image 20231110222609.png",
     "attachments/Pasted image 20231110222429.png",
     "attachments/Pasted image 20231110222419.png",
     "graph/health/psychology/Depression.md",
-    "graph/programming/design-patterns/creational-patterns/singleton.md",
     "attachments/Pasted image 20231110221917.png",
     "graph/programming/design-patterns/creational-patterns/prototype.md",
     "graph/health/psychology/Death.md",
@@ -207,7 +209,6 @@
     "graph/programming/cache/Untitled.md",
     "attachments/Pasted image 20231105234038.png",
     "graph/programming/programs/memcached.md",
-    "attachments/Pasted image 20231105233026.png",
     "graph/programming/languages/domain-languages/sql.md",
     "graph/programming/cache",
     "graph/programming/memory-storage/memory-storage.md",
@@ -219,7 +220,6 @@
     "graph/programming/data-structures/data-structures-of-databases.md",
     "graph/programming/data-structures/r-tree.md",
     "graph/programming/data-structures/suffix-tree.md",
-    "graph/programming/data-structures/probablistic.md",
     "graph/programming/data-structures/indexes",
     "Untitled.canvas"
   ]
