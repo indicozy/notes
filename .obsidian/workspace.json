@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graph/programming/terminology/Generics.md",
+                "file": "graph/health/psychology/Depression.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph/programming/terminology/Generics.md",
+                "file": "graph/health/psychology/Depression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph/programming/terminology/Generics.md",
+                "file": "graph/health/psychology/Depression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "graph/programming/terminology/Generics.md"
+                "file": "graph/health/psychology/Depression.md"
               }
             }
           },
@@ -175,8 +175,15 @@
   },
   "active": "5b20a6cfe6c0ae03",
   "lastOpenFiles": [
-    "What to read.md",
+    "graph/philosophy/nigilism.md",
+    "graph/health/psychology/helplessness.md",
+    "graph/health/psychology/emotional-intelligence.md",
+    "graph/health/psychology/Depression.md",
+    "graph/philosophy",
+    "graph/health/psychology/Death.md",
     "graph/programming/terminology/Generics.md",
+    "graph/health/psychology",
+    "What to read.md",
     "graph/programming/terminology",
     "graph/programming/programs/Kafka.md",
     "attachments/Pasted image 20231105235739.png",
@@ -212,15 +219,7 @@
     "graph/programming/data-structures/probablistic.md",
     "graph/programming/data-structures/sstable.md",
     "graph/programming/data-structures/skip-list.md",
-    "graph/programming/programs/lucene.md",
-    "graph/programming/data-structures/inverted-index.md",
-    "graph/programming/data-structures/balanced-tree.md",
-    "graph/programming/data-structures/hash-index.md",
-    "graph/programming/data-structures/indexes/b-tree-index.md",
-    "graph/programming/data-structures/indexes/brin-indexes.md",
     "graph/programming/data-structures/indexes",
-    "graph/programming/techniques",
-    "graph/programming/coin-flipping",
     "Untitled.canvas"
   ]
 }
