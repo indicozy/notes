@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graph/programming/design-patterns/structural-patterns/bridge.md",
+                "file": "graph/programming/design-patterns/structural-patterns/hooks.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph/programming/design-patterns/structural-patterns/bridge.md",
+                "file": "graph/programming/design-patterns/structural-patterns/hooks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph/programming/design-patterns/structural-patterns/bridge.md",
+                "file": "graph/programming/design-patterns/structural-patterns/hooks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "graph/programming/design-patterns/structural-patterns/bridge.md"
+                "file": "graph/programming/design-patterns/structural-patterns/hooks.md"
               }
             }
           },
@@ -175,9 +175,17 @@
   },
   "active": "5b20a6cfe6c0ae03",
   "lastOpenFiles": [
-    "graph/programming/design-patterns/dependency-injection.md",
-    "graph/programming/design-patterns/antipatterns/prop-drilling.md",
+    "attachments/Pasted image 20231110225818.png",
+    "attachments/Pasted image 20231110225658.png",
     "graph/programming/design-patterns/structural-patterns/provider.md",
+    "graph/programming/design-patterns/structural-patterns/hooks.md",
+    "attachments/Pasted image 20231110225137.png",
+    "attachments/Pasted image 20231110225057.png",
+    "graph/programming/design-patterns/antipatterns/prop-drilling.md",
+    "attachments/Pasted image 20231110225010.png",
+    "graph/programming/design-patterns/iterator.md",
+    "graph/programming/design-patterns/dependency-injection.md",
+    "graph/programming/design-patterns/structural-patterns/bridge.md",
     "graph/programming/design-patterns/antipatterns",
     "graph/programming/design-patterns/creational-patterns/singleton.md",
     "graph/programming/design-patterns/behavioral-patterns/proxy-object.md",
@@ -187,10 +195,7 @@
     "attachments/Pasted image 20231110224040.png",
     "attachments/Pasted image 20231110223812.png",
     "attachments/Pasted image 20231110222609.png",
-    "attachments/Pasted image 20231110222429.png",
-    "attachments/Pasted image 20231110222419.png",
     "graph/health/psychology/Depression.md",
-    "attachments/Pasted image 20231110221917.png",
     "graph/programming/design-patterns/creational-patterns/prototype.md",
     "graph/health/psychology/Death.md",
     "graph/philosophy/nigilism.md",
@@ -202,7 +207,6 @@
     "What to read.md",
     "graph/programming/terminology",
     "graph/programming/programs/Kafka.md",
-    "attachments/Pasted image 20231105235739.png",
     "graph/programming/architecture/microservice.md",
     "graph/programming/architecture/microfrontend.md",
     "graph/programming/architecture/domain-driven-design/domain-driven-design.md",
@@ -214,13 +218,9 @@
     "graph/programming/programs/memcached.md",
     "graph/programming/languages/domain-languages/sql.md",
     "graph/programming/cache",
-    "graph/programming/memory-storage/memory-storage.md",
-    "graph/programming/databases/cap-theorem.md",
     "graph/programming/memory-storage",
     "graph/programming/languages/domain-languages",
     "graph/programming/languages",
-    "graph/programming/databases/databases.md",
-    "graph/programming/data-structures/data-structures-of-databases.md",
     "Untitled.canvas"
   ]
 }
