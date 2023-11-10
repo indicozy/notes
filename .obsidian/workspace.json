@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graph/programming/languages/general/javascript/prototype-javascript.md",
+                "file": "graph/programming/design-patterns/behavioral-patterns/container-presentational.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph/programming/languages/general/javascript/prototype-javascript.md",
+                "file": "graph/programming/design-patterns/behavioral-patterns/container-presentational.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph/programming/languages/general/javascript/prototype-javascript.md",
+                "file": "graph/programming/design-patterns/behavioral-patterns/container-presentational.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "graph/programming/languages/general/javascript/prototype-javascript.md"
+                "file": "graph/programming/design-patterns/behavioral-patterns/container-presentational.md"
               }
             }
           },
@@ -187,10 +187,17 @@
   },
   "active": "5b20a6cfe6c0ae03",
   "lastOpenFiles": [
+    "graph/programming/languages/general/javascript/prototype-javascript.md",
+    "graph/programming/design-patterns/behavioral-patterns/container-presentational.md",
+    "graph/programming/design-patterns/behavioral-patterns/Untitled",
+    "attachments/Pasted image 20231110232533.png",
+    "graph/programming/languages/general/javascript/object",
+    "graph/programming/languages/general/javascript/object/Object.md",
+    "attachments/Pasted image 20231110232504.png",
+    "attachments/Pasted image 20231110232308.png",
     "attachments/Pasted image 20231110232034.png",
     "attachments/Pasted image 20231110231850.png",
     "graph/programming/design-patterns/creational-patterns/prototype.md",
-    "graph/programming/languages/general/javascript/prototype-javascript.md",
     "graph/programming/languages/general/javascript",
     "graph/programming/languages/general",
     "graph/programming/design-patterns/structural-patterns/hooks.md",
@@ -207,10 +214,6 @@
     "graph/programming/design-patterns/antipatterns",
     "graph/programming/design-patterns/creational-patterns/singleton.md",
     "graph/programming/design-patterns/behavioral-patterns/proxy-object.md",
-    "attachments/Pasted image 20231110224420.png",
-    "attachments/Pasted image 20231110224243.png",
-    "attachments/Pasted image 20231110224059.png",
-    "attachments/Pasted image 20231110224040.png",
     "graph/health/psychology/Depression.md",
     "graph/health/psychology/Death.md",
     "graph/philosophy/nigilism.md",
@@ -230,9 +233,6 @@
     "graph/programming/architecture",
     "graph/programming/programs/redis.md",
     "graph/programming/cache/Untitled.md",
-    "graph/programming/programs/memcached.md",
-    "graph/programming/cache",
-    "graph/programming/memory-storage",
     "Untitled.canvas"
   ]
 }

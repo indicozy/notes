@@ -10,3 +10,17 @@ Since all instances have access to the prototype, it's easy to add properties to
 ![[attachments/Pasted image 20231110232034.png]]
 
 ## Creating a subclass
+Let's create another type of dog, a super dog! This dog should inherit everything from a normal Dog, but it should also be able to fly. We can create a super dog by extending the Dog class and adding a fly method.
+![[attachments/Pasted image 20231110232308.png]]
+
+We have access to the bark method, as we extended the Dog class. The value of __proto__ on the prototype of SuperDog points to the Dog.prototype object!
+
+It gets clear why it's called a **prototype chain**: when we try to access a property that's not directly available on the object, JavaScript recursively walks down all the objects that __proto__ points to, until it finds the property!
+
+## Creating prototype from object.create
+[[graph/programming/languages/general/javascript/object/Object|Object.create]] can become handy to set object properties.
+![[attachments/Pasted image 20231110232533.png]]
+Pet 1 now has dog as prototype.
+
+## Conclusion
+The prototype pattern allows us to easily let objects access and inherit properties from other objects. Since the prototype chain allows us to access properties that aren't directly defined on the object itself, we can avoid duplication of methods and properties, thus reducing the amount of memory used.
