@@ -187,6 +187,10 @@
   },
   "active": "5b20a6cfe6c0ae03",
   "lastOpenFiles": [
+    "attachments/Pasted image 20231110233928.png",
+    "attachments/Pasted image 20231110233728.png",
+    "attachments/Pasted image 20231110233620.png",
+    "attachments/Pasted image 20231110233602.png",
     "graph/programming/languages/general/javascript/prototype-javascript.md",
     "graph/programming/design-patterns/behavioral-patterns/container-presentational.md",
     "graph/programming/design-patterns/behavioral-patterns/Untitled",
@@ -204,10 +208,7 @@
     "attachments/Pasted image 20231110225818.png",
     "attachments/Pasted image 20231110225658.png",
     "graph/programming/design-patterns/structural-patterns/provider.md",
-    "attachments/Pasted image 20231110225137.png",
-    "attachments/Pasted image 20231110225057.png",
     "graph/programming/design-patterns/antipatterns/prop-drilling.md",
-    "attachments/Pasted image 20231110225010.png",
     "graph/programming/design-patterns/iterator.md",
     "graph/programming/design-patterns/dependency-injection.md",
     "graph/programming/design-patterns/structural-patterns/bridge.md",
@@ -232,7 +233,6 @@
     "graph/programming/cache/cache.md",
     "graph/programming/architecture",
     "graph/programming/programs/redis.md",
-    "graph/programming/cache/Untitled.md",
     "Untitled.canvas"
   ]
 }
