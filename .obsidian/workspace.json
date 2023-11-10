@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graph/programming/languages/general/javascript/module-pattern.md",
+                "file": "graph/programming/design-patterns/creational-patterns/mixin-pattern.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph/programming/languages/general/javascript/module-pattern.md",
+                "file": "graph/programming/design-patterns/creational-patterns/mixin-pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph/programming/languages/general/javascript/module-pattern.md",
+                "file": "graph/programming/design-patterns/creational-patterns/mixin-pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "graph/programming/languages/general/javascript/module-pattern.md"
+                "file": "graph/programming/design-patterns/creational-patterns/mixin-pattern.md"
               }
             }
           },
@@ -187,8 +187,9 @@
   },
   "active": "5b20a6cfe6c0ae03",
   "lastOpenFiles": [
-    "graph/programming/design-patterns/behavioral-patterns/observer.md",
     "graph/programming/languages/general/javascript/module-pattern.md",
+    "graph/programming/design-patterns/creational-patterns/mixin-pattern.md",
+    "graph/programming/design-patterns/behavioral-patterns/observer.md",
     "attachments/Pasted image 20231110234544.png",
     "graph/programming/design-patterns/behavioral-patterns/container-presentational.md",
     "attachments/Pasted image 20231110234505.png",
@@ -231,7 +232,6 @@
     "graph/programming/architecture/microfrontend.md",
     "graph/programming/architecture/domain-driven-design/domain-driven-design.md",
     "graph/programming/architecture/domain-driven-design",
-    "graph/programming/cache/cache.md",
     "graph/programming/architecture",
     "Untitled.canvas"
   ]
