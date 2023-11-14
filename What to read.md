@@ -4,6 +4,7 @@ TODO: Stopped at VIPER and data access object, data access layer
 - https://koneensaatio.fi/en/grants-and-residencies/marxist-political-economy-and-islamic-economics-developing-the-theoretical-foundation-of-islamic-economics-and-finance-2/
 - идеальный программист роберт мартин - для тимлида
 - Метод параноика - для тимлида
+- https://effector.dev/
 - ReWork
 - https://habr.com/ru/companies/yandex/articles/666870/
 - Vue, Nuxt
