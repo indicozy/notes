@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What to read.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04c45d7e9c777270",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graph/programming/design-patterns/creational-patterns/prototype.md",
+                "file": "graph/programming/design-patterns/creational-patterns/singleton.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What to read.md",
+                "file": "graph/programming/design-patterns/creational-patterns/singleton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What to read.md",
+                "file": "graph/programming/design-patterns/creational-patterns/singleton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What to read.md"
+                "file": "graph/programming/design-patterns/creational-patterns/singleton.md"
               }
             }
           },
@@ -187,6 +175,8 @@
   },
   "active": "5b20a6cfe6c0ae03",
   "lastOpenFiles": [
+    "graph/programming/design-patterns/creational-patterns/singleton.md",
+    "What to read.md",
     "graph/programming/design-patterns/creational-patterns/mixin-pattern.md",
     "graph/programming/languages/general/javascript/module-pattern.md",
     "graph/programming/design-patterns/behavioral-patterns/observer.md",
@@ -215,7 +205,6 @@
     "graph/programming/design-patterns/dependency-injection.md",
     "graph/programming/design-patterns/structural-patterns/bridge.md",
     "graph/programming/design-patterns/antipatterns",
-    "graph/programming/design-patterns/creational-patterns/singleton.md",
     "graph/programming/design-patterns/behavioral-patterns/proxy-object.md",
     "graph/health/psychology/Depression.md",
     "graph/health/psychology/Death.md",
@@ -225,7 +214,6 @@
     "graph/philosophy",
     "graph/programming/terminology/Generics.md",
     "graph/health/psychology",
-    "What to read.md",
     "graph/programming/terminology",
     "graph/programming/programs/Kafka.md",
     "graph/programming/architecture/microservice.md",
