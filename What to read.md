@@ -13,6 +13,7 @@ TODO: Stopped at VIPER and data access object, data access layer
 - Caddy 2, замена Nginx
 - https://healthy-manatee-bc3.notion.site/Test-assignment-9506f7eec0a74525ab88a333e71b8794
 - https://contentlayer.dev/
+- https://www.youtube.com/watch?v=TqhkWaeUN_8
 
 ## Programming
 - Confluence
