@@ -34,7 +34,8 @@ Version 4.2., Apart from bug fixes, had some major enhancements:
  
 Many people continue to refer to PostgreSQL as “Postgres” (now rarely in all capital letters) because of tradition or because it is easier to pronounce. This usage is widely accepted as a nickname or alias.
 
-## 
+# The SQL Language
+
 
 ## Sources
 - PostgreSQL 16.1 Official documentation
