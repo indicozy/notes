@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What to read.md",
+                "file": "graph/programming/databases/sql/postgresql.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What to read.md",
+                "file": "graph/programming/databases/sql/postgresql.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What to read.md",
+                "file": "graph/programming/databases/sql/postgresql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What to read.md"
+                "file": "graph/programming/databases/sql/postgresql.md"
               }
             }
           },
@@ -175,8 +175,13 @@
   },
   "active": "5b20a6cfe6c0ae03",
   "lastOpenFiles": [
-    "graph/programming/design-patterns/creational-patterns/singleton.md",
+    "graph/programming/databases/sql/postgres.md",
+    "graph/programming/databases/sql/postgresql.md",
+    "graph/programming/databases/sql/sql.md",
+    "graph/programming/databases/sql/Untitled",
     "What to read.md",
+    "graph/programming/databases/sql",
+    "graph/programming/design-patterns/creational-patterns/singleton.md",
     "graph/programming/design-patterns/creational-patterns/mixin-pattern.md",
     "graph/programming/languages/general/javascript/module-pattern.md",
     "graph/programming/design-patterns/behavioral-patterns/observer.md",
@@ -216,11 +221,6 @@
     "graph/health/psychology",
     "graph/programming/terminology",
     "graph/programming/programs/Kafka.md",
-    "graph/programming/architecture/microservice.md",
-    "graph/programming/architecture/microfrontend.md",
-    "graph/programming/architecture/domain-driven-design/domain-driven-design.md",
-    "graph/programming/architecture/domain-driven-design",
-    "graph/programming/architecture",
     "Untitled.canvas"
   ]
 }
