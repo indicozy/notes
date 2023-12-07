@@ -14,6 +14,7 @@ TODO: Stopped at VIPER and data access object, data access layer
 - https://healthy-manatee-bc3.notion.site/Test-assignment-9506f7eec0a74525ab88a333e71b8794
 - https://contentlayer.dev/
 - https://www.youtube.com/watch?v=TqhkWaeUN_8
+- https://brunoscheufler.com/blog/2020-07-04-documenting-design-decisions-using-rfcs-and-adrs
 
 ## Programming
 - Confluence

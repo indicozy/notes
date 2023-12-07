@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graph/programming/databases/sql/postgresql.md",
+                "file": "What to read.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "graph/programming/databases/sql/postgresql.md",
+                "file": "What to read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "graph/programming/databases/sql/postgresql.md",
+                "file": "What to read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "graph/programming/databases/sql/postgresql.md"
+                "file": "What to read.md"
               }
             }
           },
@@ -175,8 +175,10 @@
   },
   "active": "5b20a6cfe6c0ae03",
   "lastOpenFiles": [
-    "graph/programming/databases/sql/postgres.md",
+    "Pasted image 20231015163937.png",
+    "how-website-works.md",
     "graph/programming/databases/sql/postgresql.md",
+    "graph/programming/databases/sql/postgres.md",
     "graph/programming/databases/sql/sql.md",
     "graph/programming/databases/sql/Untitled",
     "What to read.md",
@@ -217,10 +219,8 @@
     "graph/health/psychology/helplessness.md",
     "graph/health/psychology/emotional-intelligence.md",
     "graph/philosophy",
-    "graph/programming/terminology/Generics.md",
     "graph/health/psychology",
     "graph/programming/terminology",
-    "graph/programming/programs/Kafka.md",
     "Untitled.canvas"
   ]
 }
