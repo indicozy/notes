@@ -15,12 +15,12 @@ TODO: Stopped at VIPER and data access object, data access layer
 - https://contentlayer.dev/
 - https://www.youtube.com/watch?v=TqhkWaeUN_8
 - https://brunoscheufler.com/blog/2020-07-04-documenting-design-decisions-using-rfcs-and-adrs
+- Team topologies by Matthew skelton and Manuel pais
 
 ## Programming
 - Confluence
 - Jenkins
 - Gradle
-- Netflix
 - Spinnaker
 - Kayenta
 - PagerDuty
