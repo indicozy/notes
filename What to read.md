@@ -16,6 +16,7 @@ TODO: Stopped at VIPER and data access object, data access layer
 - https://www.youtube.com/watch?v=TqhkWaeUN_8
 - https://brunoscheufler.com/blog/2020-07-04-documenting-design-decisions-using-rfcs-and-adrs
 - Team topologies by Matthew skelton and Manuel pais
+- The Guy She was Interested in Wasn't a Guy at all
 
 ## Programming
 - Confluence
